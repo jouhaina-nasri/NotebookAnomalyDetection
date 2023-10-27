@@ -1,0 +1,384 @@
+File,Cell,LC,LEC,CCC,LE,CIC,SLOC,CC,FC,VOL,NOL_NOCC,LOC,DNA,LOEC,NOCE,DNIC,NOIC
+0_export_data_from_bq_to_gcs.ipynb,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0_Introduction.ipynb,40,0,0,0,0,0,3,0,3,2,0,0,0,0,14,0,0
+01_convection_revisited.ipynb,3,0,0,0,0,0,3,0,3,24,0,0,0,0,34,0,0
+01_convection_revisited.ipynb,5,0,0,0,1,0,9,0,18,53.3029689088065,0,0,0,0,108,0,0
+01_data_collection.ipynb,25,0,0,0,1,0,5,0,8,8,0,0,0,1,89,0,0
+01-Biological vision.ipynb,46,0,0,0,1,0,1,0,1,0,0,0,0,0,81,0,0
+01-Histogram based image segmentation.ipynb,8,0,0,0,0,0,1,0,2,2,0,0,0,0,25,0,0
+01-Point processing.ipynb,4,0,0,0,0,0,12,1,14,38.0537478050103,0,0,0,2,47,0,0
+02_using_metrics_in_eager_mode.ipynb,3,0,0,0,0,0,1,0,1,0,0,0,0,0,28,0,0
+02-Combined operations.ipynb,12,0,0,0,0,0,1,0,1,0,0,0,0,0,63,0,0
+02.01-Understanding-Data-Types.ipynb,33,0,0,0,0,0,1,0,1,0,0,0,0,0,21,0,0
+03-Digital image.ipynb,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+03-The watershed transform.ipynb,9,0,0,0,0,0,3,0,3,11.6096404744368,0,0,0,0,31,0,0
+03.01-Introducing-Pandas-Objects.ipynb,4,0,0,0,0,0,2,0,1,2,0,0,0,4,40,0,0
+03.01-Introducing-Pandas-Objects.ipynb,15,0,0,0,0,0,3,0,1,2,0,0,0,4,68,0,0
+03.03-Operations-in-Pandas.ipynb,13,0,0,0,1,0,4,0,2,4.75488750216347,0,0,0,3,107,0,0
+03.07-Merge-and-Join.ipynb,29,0,0,0,0,0,3,0,3,11.6096404744368,0,0,0,0,32,0,0
+03.07-Merge-and-Join.ipynb,51,0,0,0,0,0,1,0,1,4.75488750216347,0,0,0,2,52,0,0
+03.07-Merge-and-Join.ipynb,80,0,0,0,0,0,2,0,2,0,0,0,0,0,50,0,0
+03.10-Working-With-Strings.ipynb,48,0,0,0,0,0,1,0,2,0,0,0,0,0,54,0,0
+03.10-Working-With-Strings.ipynb,61,0,0,0,0,0,1,0,0,2,0,0,0,0,29,0,0
+03c-feedback-pt-reactor.ipynb,22,0,0,0,0,0,1,0,1,2,0,0,0,0,27,0,0
+04-two-temperature-pt-reactor.ipynb,7,1,0,0,0,0,34,0,16,15.5097750043269,0,0,0,6,72,0,0
+04.02-Simple-Scatter-Plots.ipynb,4,0,0,0,0,0,3,0,3,8,0,0,0,0,34,0,0
+04.10-Customizing-Ticks.ipynb,4,0,0,0,0,0,3,0,3,2,0,0,0,0,42,0,0
+04.10-Customizing-Ticks.ipynb,10,0,0,0,0,0,6,0,9,8,0,0,0,0,49,0,0
+04.11-Settings-and-Stylesheets.ipynb,13,0,0,0,0,0,2,0,3,8,0,0,0,0,28,0,0
+04.11-Settings-and-Stylesheets.ipynb,24,0,0,0,0,0,2,0,2,2,0,0,0,0,16,0,0
+05_conditional_dimension.ipynb,10,0,0,0,0,0,7,0,8,38.0537478050103,0,0,0,0,67,0,0
+05_support_vector_machines.ipynb,14,1,0,0,1,0,13,0,11,28.5293250129808,0,0,0,2,113,0,0
+05-bwr-two-temperature-pt-reactor.ipynb,20,0,0,0,0,0,10,1,12,48.1057163358342,0,0,0,0,58,0,0
+05.02-Introducing-Scikit-Learn.ipynb,23,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+05.09-Principal-Component-Analysis.ipynb,21,0,0,0,0,0,3,0,2,2,0,0,0,0,22,0,0
+05.11-K-Means.ipynb,15,1,0,1,0,0,16,4,14,48.1057163358342,1,82,0,0,75,1,1
+05.14-Image-Features.ipynb,32,0,0,0,0,0,2,0,2,4.75488750216347,0,0,0,0,35,0,0
+07_Keras_Flowers_TPU_playground.ipynb,20,0,0,0,0,0,1,0,1,8,0,0,0,0,73,0,0
+07_python-conditionals.ipynb,13,0,0,0,0,0,5,0,4,2,0,0,0,0,50,0,0
+07-Examples.ipynb,15,0,0,0,0,0,8,0,11,38.0537478050103,0,0,0,2,42,0,0
+07-Examples.ipynb,23,0,0,0,0,0,3,0,3,4.75488750216347,0,0,0,0,71,0,0
+08_Answers.ipynb,12,0,0,0,0,0,4,0,2,11.6096404744368,0,0,0,0,16,0,0
+08_Loops.ipynb,29,0,1,0,1,0,9,0,0,0,0,0,0,44,865,0,0
+08_shallow_water_equation.ipynb,6,0,0,0,0,0,8,1,10,15.5097750043269,0,0,0,0,26,0,0
+08_Taxifare_Keras_FeatureColumns_playground.ipynb,6,1,0,0,0,0,13,0,8,48.1057163358342,0,0,0,0,60,1,2
+1_Hello Map.ipynb,6,0,0,0,0,0,1,0,1,0,0,0,0,0,16,0,0
+11_deep_learning.ipynb,12,0,0,0,1,0,3,0,2,11.6096404744368,0,0,0,0,106,0,0
+12_time_blocking.ipynb,18,1,0,0,1,0,28,0,37,186.117300051923,0,0,0,0,172,1,1
+14_Answers.ipynb,5,0,0,0,0,0,3,0,5,2,0,0,0,0,23,0,0
+16_Comprehensions.ipynb,6,0,0,0,0,0,6,0,3,11.6096404744368,0,0,0,4,21,1,1
+2_environments_tutorial.ipynb,11,1,0,0,0,0,20,11,21,8,0,0,0,0,44,1,1
+2018-05-17_minimal_working_example_lmfit_resolu.ipynb,7,0,0,0,0,0,1,0,1,2,0,0,0,0,8,0,0
+2018-05-17_minimal_working_example_lmfit_resolu.ipynb,11,1,0,0,1,1,20,6,43,69.4868683012558,0,0,0,0,88,3,4
+2018-11-29_sort_BadTrial___Suppression_mauvais_essais_velocity.ipynb,9,1,0,0,1,0,38,5,47,179.524905593074,0,0,0,4,115,1,2
+2018-12-07_extration_goodness-of-fit-statistics.ipynb,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018-12-20_plotly___test.ipynb,4,0,0,0,0,0,1,0,1,4.75488750216347,0,0,0,0,19,0,0
+2019-02-26_sort_BadTrial___sklearn__change_descripteur_1.ipynb,8,1,0,0,1,0,18,5,19,153.580085621993,0,0,0,2,107,1,1
+2019-02-26_sort_BadTrial___sklearn__change_descripteur_1.ipynb,7,0,0,0,0,0,2,0,3,8,0,0,0,0,18,0,0
+2019-03-01_sort_BadTrial___sklearn__change_descripteur_Comparaison_2.ipynb,10,0,0,0,0,0,1,0,1,19.6514844544032,0,0,0,0,57,0,0
+2019-03-01_sort_BadTrial___sklearn__change_descripteur_Comparaison.ipynb,3,1,0,0,1,0,33,7,47,128.381962558414,0,0,0,0,157,1,3
+2019-03-19_Fit_Full___old_velocity_filt_30.ipynb,1,0,1,0,1,0,4,0,0,2,0,0,0,12,260,0,0
+2019-03-29_Fit_Full___velocity_line.ipynb,14,0,0,0,0,0,1,0,1,0,0,0,0,0,7,0,0
+2019-12-19_sort_BadTrial___aSPEM___param_difference_Bad_Good_Trial.ipynb,4,0,0,0,0,0,3,0,2,11.6096404744368,0,0,0,0,16,0,0
+20190721_practical_pandas_tutorial_for_aspiring_data_scientists.ipynb,101,0,0,0,0,0,1,0,1,0,0,0,0,0,21,0,0
+20190721_practical_pandas_tutorial_for_aspiring_data_scientists.ipynb,183,0,0,0,0,0,8,0,6,15.5097750043269,0,0,0,0,62,0,0
+20200911_hahow_pandas.ipynb,61,0,0,0,0,0,1,0,1,0,0,0,0,0,10,0,0
+20200911_hahow_pandas.ipynb,70,0,0,0,0,0,2,0,3,4.75488750216347,0,0,0,0,49,0,0
+20200911_hahow_pandas.ipynb,73,0,0,0,0,0,1,0,1,0,0,0,0,0,13,0,0
+20200911_hahow_pandas.ipynb,96,0,0,0,0,0,1,0,1,0,0,0,0,0,18,0,0
+20200911_hahow_pandas.ipynb,109,0,0,0,0,0,1,0,1,0,0,0,0,0,26,0,0
+20200911_hahow_pandas.ipynb,247,0,0,0,0,0,4,0,2,4.75488750216347,0,0,0,0,76,0,0
+3 - Image Segmentation.ipynb,13,0,0,0,0,0,2,0,2,4.75488750216347,0,0,0,0,23,0,0
+3_mnist_from_scratch.ipynb,24,1,0,0,1,0,32,0,26,104.041924989311,0,0,0,4,116,0,0
+3_mnist_from_scratch.ipynb,32,0,0,0,1,0,9,0,2,75.0586500259616,0,0,0,4,104,0,0
+3_mnist_from_scratch.ipynb,46,1,0,0,0,0,13,0,21,98.1074956100205,0,0,0,0,74,1,1
+4_keras_functional_api.ipynb,21,0,0,0,0,0,10,0,5,28.5293250129808,0,0,0,0,122,0,0
+4_keras_functional_api.ipynb,24,0,0,0,0,0,2,0,2,4.75488750216347,0,0,0,2,47,0,0
+4_preproc_tft.ipynb,6,0,0,0,0,0,3,0,3,2,0,0,0,0,21,0,0
+5_word2vec.ipynb,9,1,0,1,1,0,31,7,37,147.206717868256,1,53,0,2,92,0,0
+6_translate.ipynb,14,1,1,0,1,0,15,2,13,58.6033589341278,0,0,0,5,117,0,0
+62b_lstm.ipynb,3,1,0,0,0,0,13,3,15,43.0195500086539,0,0,0,0,53,1,2
+advanced-map-widget-useage.ipynb,14,0,0,0,0,0,6,0,2,2,0,0,0,0,44,0,0
+advanced-map-widget-useage.ipynb,29,1,1,0,1,0,24,0,2,8,0,0,3,4,347,0,0
+Algorithmic Problems in Python3.ipynb,6,0,0,0,0,0,8,3,5,24,0,0,0,0,52,1,1
+AmBe_250keV.ipynb,3,0,0,0,0,0,3,0,0,4.75488750216347,0,0,0,0,0,0,0
+analyze_visualize_rent_data.ipynb,7,0,0,0,0,0,2,0,2,8,0,0,0,0,47,0,0
+ArcFlags - JupyterCon.ipynb,1,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0
+artgor_ipywidgets.ipynb,17,0,0,0,0,0,1,0,1,2,0,0,0,0,17,0,0
+ASL_2.0_bqml_feateng-REVIEW.ipynb,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ASL_2.0_bqml_feateng-REVIEW.ipynb,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+assignment01_pandas_uci_adult_solution.ipynb,19,0,0,0,1,0,3,0,3,2,0,0,0,3,128,0,0
+assignment08_implement_sgd.ipynb,8,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+assignment1_USA_flights_EDA_solution.ipynb,17,0,0,0,0,0,1,0,1,0,0,0,0,0,23,0,0
+assignment1_USA_flights_EDA.ipynb,6,0,1,0,1,0,8,0,0,4.75488750216347,0,0,0,19,451,0,0
+assignment2_part1_alice_logistic_regression_solution.ipynb,14,0,0,0,1,0,4,0,6,15.5097750043269,0,0,0,0,134,0,0
+Auto-ML Unsupervised.ipynb,5,0,0,0,1,0,10,1,12,58.6033589341278,0,0,0,0,93,1,1
+automl_text_classification.ipynb,13,0,0,0,0,0,5,0,4,11.6096404744368,0,0,0,0,49,1,1
+average_output.ipynb,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b_tfstart_graph.ipynb,7,0,0,0,0,0,3,0,3,11.6096404744368,0,0,0,0,28,0,0
+basic_retrieval.ipynb,6,0,0,0,0,0,7,0,7,0,0,0,0,0,0,0,0
+Batch_Normalization_Lesson.ipynb,15,0,0,0,0,0,1,0,1,2,0,0,0,0,49,0,0
+bench_marking_notebook.ipynb,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bench_marking_notebook.ipynb,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bigquery.ipynb,16,0,0,0,0,0,2,0,2,11.6096404744368,0,0,0,0,56,0,0
+c_neuralnetwork.ipynb,19,1,0,0,1,0,22,1,22,104.041924989311,0,0,0,1,124,0,0
+ch02.ipynb,9,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+ch04.ipynb,55,0,0,0,0,0,2,0,3,4.75488750216347,0,0,0,1,45,0,0
+ch06.ipynb,17,0,0,0,0,0,6,0,3,11.6096404744368,0,0,0,0,24,0,0
+ch07.ipynb,14,0,0,1,1,0,7,2,18,58.6033589341278,1,120,0,0,122,0,0
+ch08.ipynb,49,0,0,0,0,0,2,0,4,11.6096404744368,0,0,0,0,54,0,0
+ch09.ipynb,19,1,0,0,1,0,18,5,24,69.4868683012558,2,42,0,0,81,0,0
+ch11.ipynb,35,0,0,0,0,0,8,0,6,19.6514844544032,0,0,0,5,53,0,0
+ch11.ipynb,56,1,0,0,1,0,24,0,14,38.0537478050103,0,0,0,0,116,0,0
+ch12.ipynb,17,0,0,0,0,0,1,0,1,0,0,0,0,0,45,0,0
+class11.ipynb,16,0,0,0,1,0,5,0,11,33.2192809488736,0,0,0,0,119,0,0
+class13.ipynb,5,0,0,0,0,0,1,0,1,0,0,0,0,0,30,0,0
+class26.ipynb,23,0,0,0,1,0,2,0,3,4.75488750216347,0,0,0,0,87,0,0
+class27-checkpoint.ipynb,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+classifying_images_with_a_nn_and_dnn_model.ipynb,9,0,0,0,1,0,5,0,5,15.5097750043269,0,0,0,2,157,0,0
+clay_finalproject.ipynb,3,1,0,0,0,1,35,4,33,104.041924989311,2,44,0,1,82,3,3
+CLOPE_hedgehogues_urvanov.ipynb,15,0,0,0,0,0,1,0,1,2,0,0,0,0,54,0,0
+cnn.ipynb,4,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0
+CNTK_tutorial.ipynb,12,0,0,0,0,0,1,0,1,2,0,0,0,0,14,0,0
+Coefficients.ipynb,0,0,0,0,0,0,18,0,18,0,0,0,0,0,70,0,0
+container_build.ipynb,8,0,0,0,0,0,2,0,4,2,0,0,0,0,43,0,0
+Convex Optimization and Quadratic Smoothing Example-checkpoint.ipynb,2,1,0,0,0,0,14,0,24,58.6033589341278,0,0,0,0,55,0,0
+coretensorflow.ipynb,2,0,0,0,0,0,3,0,3,4.75488750216347,0,0,0,3,26,0,0
+create_data.ipynb,8,0,0,0,0,0,1,0,1,0,0,0,0,0,21,0,0
+csp.ipynb,4,0,0,0,0,0,1,0,1,2,0,0,0,0,12,0,0
+csp.ipynb,14,0,0,0,0,0,1,0,0,4.75488750216347,0,0,0,0,24,0,0
+cyjs-jupyter-widget.ipynb,14,0,0,0,0,0,1,0,1,0,0,0,0,0,11,0,0
+Data Split & Cal-checkpoint.ipynb,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Data Wrangling with Pandas.ipynb,14,0,0,0,0,0,2,0,2,8,0,0,0,0,35,0,0
+data-science-ai-and-our-digital-future-in-the-age-of-surveillance-capitalism.ipynb,93,0,0,0,0,0,7,0,7,11.6096404744368,0,0,0,0,65,0,0
+DataLoader 8:4.ipynb,14,1,0,0,1,0,12,0,16,38.0537478050103,0,0,0,0,141,0,0
+"Decorators, Closures and Wrappers-checkpoint.ipynb",4,0,0,0,0,0,6,1,9,19.6514844544032,0,0,0,0,58,0,0
+DeepLearning_Vignette.ipynb,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+delineation.ipynb,11,0,0,0,0,0,4,0,5,15.5097750043269,0,0,0,2,65,0,0
+Demo dashboard-checkpoint.ipynb,1,0,0,0,1,0,11,0,6,38.0537478050103,0,0,0,0,104,0,0
+Demo dashboard-checkpoint.ipynb,4,0,0,0,1,0,6,0,6,24,0,0,0,3,127,0,0
+demo.ipynb,66,0,0,0,0,0,2,0,2,8,0,0,0,0,34,0,0
+developing the keyboard optimization.ipynb,16,0,0,0,0,0,4,0,4,4.75488750216347,0,0,0,0,27,0,0
+dl_sentiment_analysis_radchenko.ipynb,4,1,0,0,1,0,25,3,16,122.211432671668,0,0,0,0,180,1,1
+DL2_to_DL3.ipynb,2,0,0,0,0,0,8,0,8,0,0,0,0,0,0,0,0
+dlnd_language_translation.ipynb,5,0,0,0,0,0,3,1,6,2,0,0,0,0,35,0,0
+dlnd_language_translation.ipynb,11,0,0,0,0,0,10,0,14,8,0,0,0,0,77,1,1
+dlnd_tv_script_generation.ipynb,27,0,0,0,0,0,8,0,0,24,0,0,0,0,27,0,0
+Doing Science with Python.ipynb,36,0,0,0,0,0,5,0,4,15.5097750043269,0,0,0,0,14,0,0
+drive_time_analysis_for_opioid_epidemic.ipynb,4,0,0,0,0,0,4,0,2,11.6096404744368,0,0,0,0,41,0,0
+ecodices.ipynb,1,0,0,0,0,0,6,0,6,0,0,0,0,0,0,0,0
+ecodices.ipynb,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+egemap_prosody_feature_analysis.ipynb,2,0,0,0,0,0,5,0,5,2,0,0,0,0,60,0,0
+Emmanuil-PCA.ipynb,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+england-checkpoint.ipynb,1,1,0,0,1,0,34,0,28,69.4868683012558,0,0,0,2,142,0,0
+essence-of-principal-component-analysis.ipynb,18,0,0,0,0,0,1,0,0,0,0,0,0,0,7,0,0
+example_container.ipynb,5,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Example.ipynb,3,0,0,0,0,0,4,0,4,0,0,0,0,0,61,0,0
+exploration.ipynb,20,0,0,0,0,0,2,0,1,0,0,0,0,0,35,0,0
+exploration.ipynb,35,0,0,0,0,0,1,0,1,0,0,0,0,0,11,0,0
+Explore Data & Analysis Before Data Preprocessing.ipynb,4,0,0,0,0,0,1,0,1,0,0,0,0,0,20,0,0
+Export Training Samples.ipynb,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0
+Extract_Describer_Events.ipynb,8,0,0,0,0,0,5,3,4,4.75488750216347,0,0,0,0,0,1,1
+Feature_engineering_is_all_you_need_ tutorial_Georgy_Surin.ipynb,39,0,0,0,0,0,6,0,5,4.75488750216347,0,0,0,0,61,0,0
+feature_normalization.ipynb,3,1,0,0,1,0,18,4,13,58.6033589341278,0,0,0,0,89,1,1
+FeatureExploration.ipynb,2,0,0,0,0,0,1,0,1,0,0,0,0,0,20,0,0
+fighting_california_forest_fires_using_spatial_analysis.ipynb,6,0,0,0,0,0,2,0,1,2,0,0,0,0,29,0,0
+final_project-checkpoint.ipynb,5,1,1,0,1,0,11,0,6,58.6033589341278,0,0,0,13,271,0,0
+Final_Project-checkpoint.ipynb,10,1,0,0,0,1,29,11,24,64,0,0,0,0,41,2,3
+final_project-checkpoint.ipynb,21,0,0,0,0,0,3,0,5,4.75488750216347,0,0,0,0,68,0,0
+final_project.ipynb,8,0,0,0,1,0,3,0,2,8,0,0,0,0,141,0,0
+FinalProject.ipynb,10,0,0,0,1,0,5,0,6,2,0,0,0,5,165,0,0
+finde.ipynb,9,0,0,0,1,0,10,0,0,11.6096404744368,0,0,0,4,102,0,0
+finding_donors.ipynb,44,0,0,0,0,0,5,0,4,19.6514844544032,0,0,0,0,46,0,0
+formulation.ipynb,14,1,0,1,1,0,71,0,126,192.749774528271,1,53,1,5,105,0,0
+foursquare-location-history.ipynb,2,0,0,0,0,0,3,0,0,4.75488750216347,0,0,0,0,0,0,0
+franec_stampe_plots.ipynb,10,1,0,0,0,0,60,0,30,354.413435736511,0,0,0,0,57,0,0
+Functions-checkpoint.ipynb,5,0,0,0,0,0,6,3,6,11.6096404744368,0,0,0,0,34,1,1
+Fuse_Threshold_Network.ipynb,6,1,0,0,1,0,30,0,39,116.096404744368,0,0,0,1,98,0,0
+GA_FinalProject_TimeSeries_ActiveUsers-checkpoint.ipynb,63,0,0,0,1,0,4,0,7,24,0,0,0,0,132,0,0
+GA_FinalProject_TimeSeries_ActiveUsers.ipynb,18,0,0,0,0,0,1,0,1,0,0,0,0,0,27,0,0
+gaussian_process.ipynb,3,1,1,0,1,0,36,0,111,11.6096404744368,0,0,0,101,1966,0,0
+gcd and mod inv-checkpoint.ipynb,2,0,0,0,0,0,10,2,15,38.0537478050103,0,0,0,0,59,1,1
+GLM-logistic.ipynb,4,0,1,0,1,0,7,0,1,2,0,0,0,15,312,0,0
+Graficas  Hartmann.ipynb,15,0,0,0,0,0,6,0,6,28.5293250129808,0,0,0,0,52,0,0
+grafieken-checkpoint.ipynb,4,0,0,0,0,0,11,0,10,38.0537478050103,1,19,0,0,82,0,0
+graphs-and_plots.ipynb,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+hahow-pandas.ipynb,14,0,0,0,0,0,1,0,1,0,0,0,0,0,13,0,0
+hahow-pandas.ipynb,130,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0
+hahow-pandas.ipynb,205,0,0,0,0,0,1,0,1,0,0,0,0,0,39,0,0
+hand_dataset.ipynb,5,0,0,0,0,0,4,0,5,24,0,0,0,0,60,0,0
+Happiness_and_Turnover.ipynb,18,0,0,0,0,0,1,0,1,0,0,0,0,2,67,0,0
+heart_deseases_Varkentin.ipynb,8,0,0,0,0,0,1,0,1,0,0,0,0,0,11,0,0
+hopper_miller_zhang_final.ipynb,14,0,0,0,0,0,2,0,2,2,0,0,0,0,52,0,0
+hopper_miller_zhang_final0814-checkpoint.ipynb,4,1,0,0,0,1,88,30,91,166.465005938829,1,39,0,0,63,4,18
+hopper_miller_zhang_final0814-checkpoint.ipynb,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hopper_miller_zhang_final0816.ipynb,41,0,0,0,1,0,12,0,10,24,0,0,0,5,120,0,0
+hopper_miller_zhang_final0816.ipynb,56,0,0,0,1,0,12,0,13,38.0537478050103,0,0,0,5,124,0,0
+html_table_to_pandas_data_frame_to_portal_item.ipynb,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+identifying-suitable-sites-for-als-clinics-using-location-allocation-analysis.ipynb,6,0,0,0,0,0,2,0,1,4.75488750216347,0,0,0,0,17,0,0
+ift6135_projet.ipynb,28,0,0,0,0,0,5,0,6,28.5293250129808,0,0,0,0,86,0,0
+imbalanced_data.ipynb,3,0,0,0,0,0,13,0,13,0,0,0,0,0,0,0,0
+Inspect character position-checkpoint.ipynb,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+integral_method.ipynb,6,0,1,0,1,0,2,0,1,2,0,0,0,8,153,0,0
+intro_bqml_solution.ipynb,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+kaggle_leaderboard_probing_nikolai_timonin.ipynb,5,0,0,0,0,0,4,1,4,15.5097750043269,0,0,0,1,76,0,0
+kaggle_leaderboard_probing_nikolai_timonin.ipynb,8,0,0,0,0,0,2,1,5,4.75488750216347,0,0,0,0,0,0,0
+kaggle_medium_ridge_baseline.ipynb,5,1,0,0,0,0,15,6,16,15.5097750043269,0,0,0,0,28,0,0
+knowledge.ipynb,13,0,1,0,1,0,9,0,0,0,0,0,1,7,464,0,0
+lec03-checkpoint.ipynb,5,0,0,0,0,0,1,0,1,0,0,0,0,0,5,0,0
+lesson10_part1_boosting.ipynb,13,1,0,0,1,0,37,2,65,122.211432671668,0,0,0,2,106,0,0
+lesson2_poll_data_inclass_as_is.ipynb,3,0,0,0,0,0,1,0,1,0,0,0,0,0,16,0,0
+lesson5_quality_metrics_classification.ipynb,9,0,0,0,0,1,12,0,10,0,0,0,0,0,0,2,2
+List-Misture_G.ipynb,1,1,1,0,1,0,28,7,35,48.1057163358342,0,0,0,7,198,0,0
+LocCat-Rein curdoc gekloot-checkpoint.ipynb,5,0,0,0,0,0,1,0,0,0,0,0,0,0,23,0,0
+LocCat-SVDB-Mockup.ipynb,4,0,0,0,0,0,1,0,1,0,0,0,0,0,23,0,0
+LocCat.ipynb,5,1,0,0,1,1,16,5,9,19.6514844544032,0,0,0,1,134,2,3
+lpf-test-checkpoint.ipynb,7,0,0,0,0,0,1,0,1,0,0,0,0,0,9,0,0
+LSTD_lambda.ipynb,6,1,0,0,0,1,16,4,16,28.5293250129808,0,0,0,0,63,2,3
+make_it_beautiful_myltykritik.ipynb,8,0,0,0,0,0,1,0,1,2,0,0,0,0,62,0,0
+MARCOnI.ipynb,3,1,0,0,0,0,17,0,9,104.041924989311,0,0,0,2,70,0,0
+Mask-RCNN - Building footprint instance segmentation.ipynb,4,0,0,0,0,0,18,0,18,0,0,0,0,0,0,0,0
+mdp.ipynb,9,0,0,0,0,0,12,7,16,43.0195500086539,0,0,0,1,84,1,1
+mep_analyses.ipynb,9,0,0,0,0,0,4,0,4,2,0,0,0,0,33,0,0
+midterm-exam-part-2.ipynb,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+midterm-exam-part-2.ipynb,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+milestone_3-checkpoint.ipynb,19,0,0,0,0,0,5,0,6,11.6096404744368,0,0,0,0,83,0,0
+minimal.ipynb,1,0,0,0,0,0,2,0,2,0,0,0,0,0,38,0,0
+mixsig.ipynb,11,1,0,0,1,1,40,12,81,104.041924989311,1,37,0,2,102,2,3
+ml_analysis.ipynb,3,1,0,0,1,0,17,0,14,80.7106227554281,0,0,1,4,242,0,0
+ml_analysis.ipynb,4,0,0,0,0,0,6,0,18,28.5293250129808,0,0,0,0,58,0,0
+ml_feature_cross-checkpoint.ipynb,3,0,0,0,1,0,3,0,4,4.75488750216347,0,0,0,0,129,0,0
+ml_outlier_effects.ipynb,5,0,0,0,1,0,3,0,2,4.75488750216347,0,0,0,0,126,0,0
+ml_pd-checkpoint.ipynb,28,0,0,0,0,0,2,0,2,4.75488750216347,0,0,0,0,66,0,0
+ml_tensorflow-checkpoint.ipynb,5,0,0,0,1,0,3,0,2,4.75488750216347,0,0,0,0,126,0,0
+ml_validation.ipynb,3,0,0,0,1,0,3,0,4,4.75488750216347,0,0,0,0,129,0,0
+mlxtend_tetelias.ipynb,10,0,0,0,0,0,1,0,0,0,0,0,0,0,12,0,0
+MNE_basics.ipynb,7,0,0,0,0,0,1,0,0,0,0,0,0,0,20,0,0
+mobilenet_example.ipynb,7,1,0,0,0,0,14,0,18,43.0195500086539,0,0,0,0,54,0,0
+"MongoDB, Numpy and Scikit-learn-checkpoint.ipynb",20,0,0,0,0,0,1,0,1,0,0,0,1,1,53,0,0
+Multivariate Outliers-checkpoint.ipynb,10,1,0,0,1,1,17,3,30,80.7106227554281,0,0,0,2,127,1,2
+musicbrainz_lastfm_leaflet.ipynb,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0
+neural_network.ipynb,14,0,0,0,1,0,11,0,8,48.1057163358342,0,0,0,0,127,0,0
+number.ipynb,5,0,0,0,0,0,5,0,5,15.5097750043269,0,0,0,0,14,1,1
+Objective validation.ipynb,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OCR.ipynb,1,0,0,0,0,0,11,0,11,0,0,0,0,0,0,0,0
+OpleverNotebook-checkpoint.ipynb,26,0,0,0,1,0,4,0,4,4.75488750216347,0,0,0,5,145,0,0
+OpleverNotebook.ipynb,3,0,0,0,0,0,1,0,0,0,0,0,0,0,10,0,0
+Oracle_and_Pandas.ipynb,25,0,0,0,0,0,2,0,2,4.75488750216347,0,0,0,0,23,0,0
+organize_sbi.ipynb,0,0,0,0,0,0,5,0,5,11.6096404744368,0,0,0,0,59,0,0
+organize_sbi.ipynb,14,0,0,0,0,0,1,0,1,0,0,0,0,0,66,0,0
+organize_sbi.ipynb,16,0,0,0,0,0,1,0,1,0,0,0,0,0,66,0,0
+P4.ipynb,7,0,0,0,0,0,6,0,9,24,0,0,0,0,74,0,0
+P5_2_RFM.ipynb,20,0,0,0,0,0,12,0,14,48.1057163358342,0,0,0,3,83,1,1
+P5.ipynb,7,0,0,0,0,0,5,0,6,28.5293250129808,0,0,0,0,41,0,0
+p6_nlp_tp_LDA.ipynb,10,0,0,0,1,0,2,0,2,8,0,0,0,0,90,0,0
+P6_SupervizedMethods.ipynb,47,0,0,0,0,0,1,0,1,2,0,0,0,0,12,0,0
+P7_Analysis.ipynb,4,0,0,0,0,0,1,0,1,0,0,0,0,0,9,0,0
+part-4.ipynb,5,0,0,0,0,0,1,0,0,0,0,0,0,0,15,0,0
+part-4.ipynb,7,0,0,0,0,0,2,0,0,0,0,0,0,0,13,0,0
+PCA with BigData-checkpoint.ipynb,63,0,0,0,1,0,7,0,13,11.6096404744368,0,0,0,0,125,0,0
+PCA with BigData-checkpoint.ipynb,65,0,0,0,1,0,8,0,10,33.2192809488736,0,0,0,0,102,0,0
+PCA with BigData-checkpoint.ipynb,71,0,0,0,1,0,5,0,6,33.2192809488736,0,0,0,2,102,0,0
+PCA with BigData.ipynb,25,1,0,0,1,0,22,0,28,58.6033589341278,0,0,1,4,161,0,0
+penguin_simple.ipynb,10,0,0,0,0,0,7,0,6,15.5097750043269,0,0,0,0,70,0,0
+penguin_tfdv.ipynb,6,0,0,0,0,0,4,0,6,4.75488750216347,0,0,0,0,54,0,0
+penguin_tfdv.ipynb,32,0,0,0,0,0,1,0,1,2,0,0,0,0,37,0,0
+Performance and probaility statistics-checkpoint.ipynb,4,1,0,0,1,1,16,4,13,33.2192809488736,0,0,0,0,94,2,3
+Performance and probaility statistics-checkpoint.ipynb,10,0,0,0,0,0,1,0,1,0,0,0,0,2,65,0,0
+plot_lc_from_DL4.ipynb,5,0,0,0,0,0,6,0,6,24,0,0,0,0,53,0,0
+practical-pandas-tutorial-for-aspiring-data-scientists.ipynb,39,0,0,0,0,0,5,0,2,8,0,0,0,4,73,0,0
+practical-pandas-tutorial-for-aspiring-data-scientists.ipynb,118,0,1,0,0,0,5,0,1,2,0,0,2,2,84,0,0
+Predict_bike_sharing_Kozlov_Maxim.ipynb,8,0,0,0,0,0,1,0,3,4.75488750216347,0,0,0,0,77,0,0
+Predict_bike_sharing_Kozlov_Maxim.ipynb,22,0,0,0,0,0,8,1,10,43.0195500086539,0,0,0,0,59,0,0
+predict_contributionsShap.ipynb,1,0,0,0,1,0,3,0,3,11.6096404744368,0,0,0,2,97,0,0
+predicting_pulsar_aleksei_demin.ipynb,32,0,0,0,1,0,5,0,6,4.75488750216347,0,0,0,0,95,0,0
+Prediction (day of week average in 21 days without preprocessing).ipynb,2,0,0,1,1,0,6,2,15,48.1057163358342,1,133,0,0,109,0,0
+Prediction (day of week average in 21 days without preprocessing).ipynb,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prediction (day of week average in 21 days without preprocessing).ipynb,26,0,0,0,0,0,1,0,1,0,0,0,0,0,33,0,0
+Prediction( optimal score function  without preprocessing)-checkpoint.ipynb,1,0,0,0,1,0,3,0,5,11.6096404744368,0,0,0,0,141,0,0
+preprocecssing_helpers.ipynb,2,0,0,0,0,0,9,3,6,28.5293250129808,0,0,0,0,52,0,0
+probabilistic_matrix_factorization.ipynb,4,0,0,0,0,0,9,0,11,28.5293250129808,0,0,0,0,55,0,0
+problem1_v2.ipynb,6,1,0,0,1,1,122,37,159,474.842491021713,0,0,0,0,106,2,14
+problem1_v2.ipynb,29,1,0,0,1,1,48,0,62,172.973736602512,0,0,0,0,98,1,4
+project Bank Marketing WOE.ipynb,17,0,0,0,0,0,1,0,1,0,0,0,0,2,43,0,0
+project_avito.ipynb,47,0,0,0,0,0,4,0,3,2,0,0,0,2,76,0,0
+project_cars_MPG_city_predict.ipynb,46,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+project_detection_of_default_credits_asmolovskij.ipynb,20,0,0,0,0,0,1,0,1,0,0,0,0,0,9,0,0
+project_KingCountry_house_pred_price_belyaev_aleksandr.ipynb,39,0,0,0,0,0,3,0,3,11.6096404744368,0,0,0,0,50,0,0
+project_movielens_spirin.ipynb,34,0,0,0,0,0,6,0,13,48.1057163358342,0,0,0,0,64,0,0
+project_okcupid_vitaliylo.ipynb,18,1,0,0,1,0,13,3,16,24,0,0,0,2,94,1,2
+project_tmdb_ivanlipko.ipynb,15,0,0,0,1,0,10,0,20,15.5097750043269,0,0,0,0,103,0,0
+project_tripadvisor_score_chigin_sergey.ipynb,90,0,0,0,0,0,1,0,2,4.75488750216347,0,0,0,0,31,0,0
+PS5.ipynb,3,1,0,0,1,0,27,1,51,160,0,0,0,0,122,0,0
+pyramid.ipynb,2,0,0,0,0,0,11,0,10,69.4868683012558,0,0,0,2,71,0,0
+python.BQ_explore_data.ipynb,36,0,0,0,0,0,4,0,2,8,0,0,0,0,30,0,0
+quantile_monotone_constraints.ipynb,19,0,0,0,1,0,1,0,3,15.5097750043269,0,0,0,2,139,0,0
+quantum_teleportation.ipynb,31,0,0,0,0,0,4,0,7,8,0,0,0,0,72,0,0
+Question 1.ipynb,16,0,0,0,0,0,1,0,0,0,0,0,0,0,20,0,0
+Question 2.ipynb,1,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0
+Question 2.ipynb,14,0,0,0,1,0,5,0,3,15.5097750043269,0,0,0,2,92,0,0
+Question 2.ipynb,18,1,0,0,1,0,24,0,16,80.7106227554281,0,0,0,0,177,1,1
+Question 2.ipynb,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+quotient_tests.ipynb,18,0,0,0,1,0,1,0,4,15.5097750043269,0,0,0,0,74,0,0
+quotient_tests.ipynb,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Random Forest.ipynb,37,0,0,0,0,0,7,0,7,28.5293250129808,0,0,0,0,48,0,0
+random.ipynb,1,0,0,0,0,0,10,0,5,38.0537478050103,0,0,0,0,50,0,0
+RandomF_LangVSNonlang.ipynb,3,1,0,0,0,0,21,2,28,104.041924989311,0,0,0,2,81,0,0
+ranking_tutorial.ipynb,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+raster-analysis-advanced-concepts.ipynb,13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+rdemo.tutorial.eeg.eyestate.ipynb,72,0,0,0,0,0,2,0,3,8,0,0,0,0,60,0,0
+Recognising_authors_using_ML_methods_Sergey_Ustyantsev.ipynb,9,0,0,0,0,0,12,4,16,58.6033589341278,0,0,0,0,50,1,2
+Regression_analysis.ipynb,21,0,0,0,1,0,1,0,1,0,0,0,0,0,112,0,0
+regression.ipynb,5,1,1,0,1,1,13,0,19,58.6033589341278,0,0,0,26,176,2,2
+repeatable_splitting.ipynb,8,1,0,0,0,0,20,0,5,8,0,0,0,0,81,0,0
+repeatable_splitting.ipynb,11,1,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0
+rnn_testing.ipynb,25,0,0,0,0,0,10,0,10,19.6514844544032,0,0,0,2,67,0,0
+rnn_testing.ipynb,26,0,0,0,1,0,10,0,10,19.6514844544032,0,0,0,3,103,0,0
+rulefit-boston-housing-demo.ipynb,25,0,0,0,0,0,6,2,14,24,0,0,0,0,0,1,1
+sa_02_iso_implementation2.ipynb,26,0,0,0,0,0,1,0,2,4.75488750216347,0,0,0,0,0,0,0
+save_and_restore_models.ipynb,33,0,0,0,0,0,5,0,7,24,0,0,0,0,61,0,0
+save_and_restore_models.ipynb,35,0,0,0,0,0,3,0,3,8,0,0,0,0,47,0,0
+sdk_custom_xgboost.ipynb,10,0,0,0,0,0,5,0,6,4.75488750216347,0,0,0,0,36,1,1
+shateesh-EDA-cleanData.ipynb,10,0,0,0,0,0,1,0,1,0,0,0,0,0,35,0,0
+shortest-path-to-the-nlp-world-a-gentle-guide-of-natural-language-processing-and-deep-learning-for-everyone.ipynb,52,0,0,0,0,0,5,0,1,2,0,0,0,3,42,0,0
+significance_calculation.ipynb,7,0,0,0,1,0,1,0,1,0,0,0,0,0,100,0,0
+SimpleCNN.ipynb,2,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0
+Simulating baseball in Python.ipynb,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+single_qubit_states_amplitude_and_phase.ipynb,7,1,0,0,1,0,19,0,17,92.238665878354,0,0,0,1,103,0,0
+slicing and recursion-checkpoint.ipynb,30,0,0,0,0,0,5,2,8,15.5097750043269,0,0,0,0,18,1,1
+slim_walkthrough.ipynb,16,0,0,0,0,0,9,0,10,48.1057163358342,0,0,0,3,73,0,0
+Solar_flares_forecasting_Knyazeva.ipynb,10,0,0,0,0,0,7,0,7,0,0,0,0,0,0,0,0
+some_details_in_matplotlib_pisarev_ivan.ipynb,10,0,0,0,1,0,5,0,4,4.75488750216347,0,0,0,3,92,0,0
+spam_comments_model_maker.ipynb,7,0,0,0,1,0,1,0,1,2,0,0,0,0,170,0,0
+sparse_matrix_sgd_movies_inclass_as_is_20180402.ipynb,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0
+STA651 - Sunspots Timeseries Model.ipynb,31,0,0,0,0,0,2,0,1,4.75488750216347,0,0,0,0,42,0,0
+Summarize.ipynb,2,0,0,0,0,0,1,0,2,0,0,0,0,0,43,0,0
+talk.ipynb,10,0,0,0,0,0,3,0,7,15.5097750043269,0,0,0,0,40,0,0
+talk.ipynb,12,0,0,0,0,0,3,0,8,28.5293250129808,0,0,0,0,46,0,0
+Taxi.ipynb,19,0,0,0,0,0,1,0,1,0,0,0,0,0,34,0,0
+texture analysis example.ipynb,2,0,0,0,0,0,2,0,2,0,0,0,0,0,77,0,0
+tools_matplotlib.ipynb,100,0,0,0,0,0,3,0,3,11.6096404744368,0,0,0,0,65,0,0
+tools_numpy.ipynb,262,0,0,0,0,0,3,0,2,4.75488750216347,0,0,0,0,30,0,0
+tools_pandas.ipynb,35,0,0,0,0,0,3,0,1,4.75488750216347,0,0,0,4,61,0,0
+topic1_practice_pandas_titanic.ipynb,2,0,0,0,0,0,4,0,4,0,0,0,0,0,37,0,0
+topic2_part1_seaborn_matplotlib_plotly.ipynb,5,0,0,0,0,0,1,0,1,0,0,0,0,0,9,0,0
+topic3_decision_trees_kNN.ipynb,44,0,0,0,0,0,1,0,1,0,0,0,0,0,23,0,0
+topic4_linear_models_part4_good_bad_logit_movie_reviews_XOR.ipynb,22,0,0,0,0,0,1,0,1,2,0,0,0,0,24,0,0
+topic9_part1_time_series_python.ipynb,28,1,0,0,1,0,72,15,112,147.206717868256,0,0,0,0,133,1,2
+topic9_part1_time_series_python.ipynb,53,0,0,0,0,0,1,0,1,2,0,0,0,0,30,0,0
+Tournament_Model_AdaBoost-Delta.ipynb,12,0,0,0,1,0,2,0,1,2,0,0,0,0,111,0,0
+Tournament_Model_LR-Delta-Copy1.ipynb,3,0,0,0,0,0,3,0,5,8,0,0,0,0,70,0,0
+Tournament_Model_LR-Delta-Copy1.ipynb,15,1,0,0,1,0,29,0,16,19.6514844544032,0,0,0,5,155,0,0
+Tournament_Model_LR-Delta.ipynb,12,0,0,0,1,0,2,0,1,2,0,0,0,0,111,0,0
+Tournament_Model_LR-Delta.ipynb,15,1,0,0,1,0,29,0,16,19.6514844544032,0,0,0,5,155,0,0
+Tournament_Model_RF_Delta_No_Opp_Stats.ipynb,2,1,0,0,1,0,24,1,32,92.238665878354,0,0,0,0,162,0,0
+Tournament_Model_RF_Delta.ipynb,1,1,0,0,1,0,23,2,19,53.3029689088065,0,0,0,0,92,0,0
+train_caip.ipynb,4,1,0,1,1,1,46,16,50,128.381962558414,1,92,0,2,128,3,5
+train_models_with_tensorFlow_decision_forests.ipynb,10,0,0,0,1,0,5,1,7,15.5097750043269,0,0,0,0,99,0,0
+Transfer_Learning_Solution.ipynb,3,1,0,0,1,0,18,3,18,64,0,0,0,0,113,1,2
+transfer_learning.ipynb,10,0,0,0,1,0,4,0,1,11.6096404744368,0,0,0,0,123,0,0
+tree_demo.ipynb,2,0,0,0,0,0,1,0,1,0,0,0,0,0,10,0,0
+tutorial_ensemble_methods_qovaxx.ipynb,22,0,0,0,0,0,2,0,4,15.5097750043269,0,0,0,2,73,0,0
+tutorial.ipynb,35,1,0,1,1,0,18,2,17,86.4385618977473,1,82,0,1,107,0,0
+two-qubit_state_quantum_random_access_coding.ipynb,11,0,0,0,0,0,2,0,5,11.6096404744368,0,0,0,0,66,0,0
+Unstructured-ML.ipynb,16,0,0,0,1,0,2,0,3,2,0,0,0,0,89,0,0
+Updating Webmap with Broken Links.ipynb,0,0,0,0,0,0,4,0,3,4.75488750216347,0,0,0,0,65,0,0
+Useful_Google_Colab_snippets.ipynb,10,0,0,0,0,0,1,0,3,2,0,0,0,0,40,0,0
+variational_classifier.ipynb,50,1,0,0,1,0,12,3,19,48.1057163358342,0,0,0,2,124,1,1
+variational_classifier.ipynb,60,1,0,1,1,0,31,11,48,186.117300051923,2,63,0,2,103,0,0
+vectorizers_tutorial_mvsamsonov.ipynb,9,0,0,1,0,0,1,0,1,4.75488750216347,2,52,0,0,52,0,0
+ViewingAnglesViSiProg.ipynb,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+visualization_sbi.ipynb,35,0,0,0,0,0,1,0,1,0,0,0,0,0,59,0,0
+Voltage_Distributions.ipynb,21,1,0,0,0,1,25,0,27,122.211432671668,1,30,0,6,59,1,3
+walking_gait.ipynb,6,1,0,0,0,0,13,0,13,48.1057163358342,0,0,0,0,58,0,0
+Weather cal.ipynb,1,0,0,0,1,0,3,0,5,11.6096404744368,0,0,0,0,141,0,0
+webhook.ipynb,1,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0
+webscraping_ecommerce_website_with_scrapy.ipynb,42,0,0,0,0,0,1,0,1,0,0,0,0,0,50,0,0
+week-5-lasso-assignment-2-blank.ipynb,4,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+week11-magic-circle.ipynb,10,1,0,0,1,0,60,0,153,140.8814488587,0,0,0,0,136,0,0
+what-if-tool-challenge.ipynb,8,0,0,0,0,0,1,0,2,2,0,0,0,0,47,0,0
+why_notebooks.ipynb,4,0,0,0,0,0,4,2,9,11.6096404744368,0,0,0,0,0,0,0
+wigner_functions.ipynb,24,0,0,0,0,0,5,0,4,33.2192809488736,0,0,0,0,78,0,0
+will_you_have_a_success_in_speed_dating_tatyana_kudasova.ipynb,18,0,0,0,0,0,2,0,0,0,0,0,0,0,46,0,0
+word2vec_craigslistjobtitles.ipynb,7,0,0,0,0,0,2,0,2,2,0,0,0,0,60,0,0
+xml_to_python.ipynb,6,0,0,0,0,0,3,0,2,2,0,0,0,0,31,0,0

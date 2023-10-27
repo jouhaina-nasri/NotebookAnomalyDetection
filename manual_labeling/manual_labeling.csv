@@ -1,0 +1,1652 @@
+File,Cell,LC,LEC,CCC,LE,CIC,Justification
+data-science-ai-and-our-digital-future-in-the-age-of-surveillance-capitalism.ipynb,93,0,0,0,0,0,"- The cell isn't particularly long. It consists of a few basic operations like reading, modifying, and writing a file.
+- The code doesn't contain any complex or nested arrays. It's primarily focused on string operations.
+- There aren't any container comprehensions in this code.
+- The expressions used to replace certain parts of the ""html"" string are neither long nor complex.
+- There are no 'if' conditions in the provided code."
+ch06.ipynb,17,0,0,0,0,0,"- This cell isn't particularly long.
+- There's no complex or nested array structure.
+- The expressions in this code, such as the dataframe slicing with loc, are straightforward and not overly long or complex.
+- here are no 'if' conditions in the provided code."
+2019-02-26_sort_BadTrial___sklearn__change_descripteur_1.ipynb,8,1,0,0,1,0,"- The function has multiple nested loops, condition checks, print statements, and visual plotting. It can be considered a relatively long cell or function.
+- The code doesn't have any complex or nested array structures in it.
+- The code doesn't have any list comprehensions, dictionary comprehensions, or other container comprehensions.
+- The code contains some expressions that are relatively long, particularly the print statement and the Quantitative_evaluation function call.
+- The only if condition checks if a is equal to var[b]. It's a simple condition and not complex."
+graphs-and_plots.ipynb,1,0,0,0,0,0,"- The code snippet isn't long.
+- There aren't any nested or complex array structures in this code.
+- There aren't any container comprehensions.
+- The expressions are clear and not overly lengthy.
+- There are no 'if' conditions in the code."
+Batch_Normalization_Lesson.ipynb,15,0,0,0,0,0,"- The code snippet isn't long.
+- There aren't any nested or complex array structures in this code.
+- There aren't any container comprehensions.
+- The expressions are clear and not overly lengthy.
+- There are no 'if' conditions in the code."
+class27-checkpoint.ipynb,2,0,0,0,0,0,It’s empty cell
+"MongoDB, Numpy and Scikit-learn-checkpoint.ipynb",20,0,0,0,0,0,"- The code snippet isn't long.
+- There aren't any nested or complex array structures in this code.
+- There aren't any container comprehensions.
+- The expressions are clear and not overly lengthy.
+- There are no 'if' conditions in the code."
+musicbrainz_lastfm_leaflet.ipynb,1,0,0,0,0,0,"- The code snippet isn't long.
+- There aren't any nested or complex array structures in this code.
+- There aren't any container comprehensions.
+- The expressions are clear and not overly lengthy.
+- There are no 'if' conditions in the code."
+dlnd_language_translation.ipynb,5,0,0,0,0,0,"- The code within the function is just a placeholder (return None, None). It's not a long cell or function.
+- There are no complex or nested array structures in the code.
+- There aren't any container comprehensions (like list comprehensions, dict comprehensions, etc.) in this code.
+- The function mostly contains a docstring and a placeholder. There are no long or complex expressions present.
+- There are no 'if' conditions in the provided code."
+Recognising_authors_using_ML_methods_Sergey_Ustyantsev.ipynb,9,0,0,0,0,0,"- The function is relatively concise. 
+- There aren't any complex or nested array structures in the code.
+- There are no container comprehensions present in this code.
+- The expressions are reasonably straightforward. 
+- The function contains 'if verbose', which are straightforward checks and are not complex."
+20200911_hahow_pandas.ipynb,73,0,0,0,0,0,"- The code snippet isn't long.
+- There aren't any nested or complex array structures in this code.
+- There aren't any container comprehensions.
+- The expressions are clear and not overly lengthy.
+- There are no 'if' conditions in the code."
+knowledge.ipynb,13,0,1,0,1,0,"- The code snippet consists of a list definition containing dictionaries. It's concise and limited to the data definition.
+- The code contains a list of dictionaries, which is a form of a nested array or container. Each dictionary inside the list represents an element chain.
+- There are no container comprehensions in this code.
+- The list contains multiple dictionaries, each of which is an expression. Given the length and the detailed structure of each dictionary within the list, the entire list can be considered a long or complex expression.
+- There are no 'if' conditions in the provided code."
+03-Digital image.ipynb,3,0,0,0,0,0,It's a comment.
+rulefit-boston-housing-demo.ipynb,25,0,0,0,0,0,"- The code snippet isn't long.
+- There aren't any nested or complex array structures in this code.
+- There aren't any container comprehensions.
+- The expressions are clear and not overly lengthy.
+- There are no 'if' conditions in the code."
+Tournament_Model_RF_Delta_No_Opp_Stats.ipynb,2,1,0,0,1,0,"- The function encompasses several operations, including filtering, feature extraction, merging, and calculations. It can be considered a relatively long function.
+- The code doesn't display complex or nested array structures directly.
+- There aren't any container comprehensions in this code.
+- Several expressions, particularly those involving apply, lambda functions, and dataframe merging, can be considered as long or complex due to the operations being performed and the number of arguments involved.
+- There's no 'if' condition present in the code."
+ch04.ipynb,55,0,0,0,0,0,"- The code snippet isn't long.
+- There aren't any nested or complex array structures in this code.
+- There aren't any container comprehensions.
+- The expressions are clear and not overly lengthy.
+- There are no 'if' conditions in the code."
+Functions-checkpoint.ipynb,5,0,0,0,0,0,"- The function is fairly concise.
+- There's no presence of complex or nested array structures in the code. 
+- There aren't any container comprehensions in this code. 
+- The expressions in the function, such as the if condition check if len(epochs.events[:,-1]) >= n_epochs:, are straightforward and not long.
+- The if condition is a simple comparison and is not complex."
+sa_02_iso_implementation2.ipynb,26,0,0,0,0,0,"- The code snippet isn't long.
+- There aren't any nested or complex array structures in this code.
+- There aren't any container comprehensions.
+- The expressions are clear and not overly lengthy.
+- There are no 'if' conditions in the code."
+cnn.ipynb,4,0,0,0,0,0,"- The code snippet isn't long.
+- There aren't any nested or complex array structures in this code.
+- There aren't any container comprehensions.
+- The expressions are clear and not overly lengthy.
+- There are no 'if' conditions in the code."
+hopper_miller_zhang_final0816.ipynb,56,0,0,0,1,0,"- The code is relatively straightforward and not overly long.
+- The code does'nt have any deeply nested or complex array structures, class_names is simple.
+- There aren't any container comprehensions in this code.
+- Some of the expressions, especially the ones used to compute the confusion matrix like conf_dog = confusion_matrix(np.argmax(y_dev_hot[X_dev['AnimalType_Dog']==1], axis=1), np.argmax(predict4, axis=1)), are relatively long, involving multiple nested function calls and array slicing.
+- There are no if conditions in the provided code."
+quantile_monotone_constraints.ipynb,19,0,0,0,1,0,"- It's a single line of code.
+- There isn't a complex or nested array structure in this line.
+- The line doesn't contain any container comprehensions.
+- The line of code is a single, lengthy function call with multiple arguments, making it a long expression.
+- There are no if conditions in the provided code."
+demo.ipynb,66,0,0,0,0,0,"- The code snippet isn't long.
+- There aren't any nested or complex array structures in this code.
+- There aren't any container comprehensions.
+- The expressions are clear and not overly lengthy.
+- There are no 'if' conditions in the code."
+07_python-conditionals.ipynb,13,0,0,0,0,0,"- The code snippet isn't long.
+- There aren't any nested or complex array structures in this code.
+- There aren't any container comprehensions.
+- The expressions are clear and not overly lengthy.
+- There are no 'if' conditions in the code."
+essence-of-principal-component-analysis.ipynb,18,0,0,0,0,0,"- The code snippet isn't long.
+- There aren't any nested or complex array structures in this code.
+- There aren't any container comprehensions.
+- The expressions are clear and not overly lengthy.
+- There are no 'if' conditions in the code."
+P4.ipynb,7,0,0,0,0,0,"- The code snippet isn't long.
+- There aren't any nested or complex array structures in this code.
+- There aren't any container comprehensions.
+- The expressions are clear and not overly lengthy.
+- There are no 'if' conditions in the code."
+problem1_v2.ipynb,6,1,0,0,1,1,"- This class contains multiple methods. This makes it a long cell.
+- It doesn't present nested or complex array structures.
+- There aren't any container comprehensions.
+- The class has several expressions, especially within the train_model method.
+- The code contains multiple if conditions checking the presence of various data (e.g., if valid_data is not None:, if test_data is not None:) and some nested within loops, making the conditions relatively complex."
+Algorithmic Problems in Python3.ipynb,6,0,0,0,0,0,"- The function is quite concise.
+- The code does not contain any complex or nested array structures.
+- There aren't any container comprehensions.
+- The expressions are straightforward and not particularly long.
+- The only if condition is a simple check."
+project_avito.ipynb,47,0,0,0,0,0,"- The code snippet isn't long.
+- There aren't any nested or complex array structures in this code.
+- There aren't any container comprehensions.
+- The expressions are clear and not overly lengthy.
+- There are no 'if' conditions in the code."
+mobilenet_example.ipynb,7,1,0,0,0,0,"- The code snippet has diverse operations collectively make the cell lengthy.
+- There aren't deeply nested or complex array structures.
+- There aren't any container comprehensions.
+- They aren't lengthy or complex.
+- There are no if conditions in the provided code."
+08_Answers.ipynb,12,0,0,0,0,0,
+ml_analysis.ipynb,4,0,0,0,0,0,
+assignment2_part1_alice_logistic_regression_solution.ipynb,14,0,0,0,1,0,"- The code is relatively concise.
+- There aren't deeply nested or complex array structures.
+- There aren't any container comprehensions in this code.
+- The calculation for top_sites_alice is a long expression with multiple chained pandas operations.
+- There are no if conditions in the provided code."
+automl_text_classification.ipynb,13,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- Utilisation of 'if' is simple."
+Performance and probaility statistics-checkpoint.ipynb,10,0,0,0,0,0,- It’s a simple line.
+DeepLearning_Vignette.ipynb,1,0,0,0,0,0,- It's a simple line.
+Solar_flares_forecasting_Knyazeva.ipynb,10,0,0,0,0,0,- It's a simple code.
+dlnd_language_translation.ipynb,11,0,0,0,0,0,"- The code is relatively concise.
+- The code doesn't contain nested or complex array structures.
+- There aren't any container comprehensions.
+- The expressions are clear and simple.
+- There's a simple if condition to check if a GPU is present. It isn't complex."
+ml_pd-checkpoint.ipynb,28,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+Objective validation.ipynb,10,0,0,0,0,0,It’s empty cell
+train_caip.ipynb,4,1,0,1,1,1,"- The code is relatively extensive.
+- The code doesn't have nested or complex array structures. 
+- [formats[type(value) is str].format(key, value) for key, value in y.items()] is a complex container comprehensions.
+-   write_code() is long and complex.
+- There are nested if conditions checking various tags in cell metadata, which makes it a bit more complex."
+Prediction (day of week average in 21 days without preprocessing).ipynb,22,0,0,0,0,0,It’s a comment
+02_using_metrics_in_eager_mode.ipynb,3,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+variational_classifier.ipynb,50,1,0,0,1,0,"- The function is relatively long as it involves multiple operations.
+- The code doesn't have nested or complex array structures. 
+- There aren't any container comprehensions.
+- The code combines an array reshaping function (np.reshape) and a plotting method (contour) in a single line, making it a more complex and extended expression.
+- There's a simple if condition to check the choice for distinguishing between training and testing. It isn't complex."
+04.10-Customizing-Ticks.ipynb,4,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+Prediction( optimal score function  without preprocessing)-checkpoint.ipynb,1,0,0,0,1,0,"- The code is concise.
+- The code doesn't display any nested or complex array structures.
+- There are no container comprehensions present in the code.
+- The expression shop_info combines a file path construction with the reading of a table using multiple parameters, which makes it a longer and more complex.
+- There are no if conditions in this cell."
+MNE_basics.ipynb,7,0,0,0,0,0,- It's a simple line
+Predict_bike_sharing_Kozlov_Maxim.ipynb,8,0,0,0,0,0,- It's a simple line
+2019-03-19_Fit_Full___old_velocity_filt_30.ipynb,1,0,1,0,1,0,"- The code simply defines two lists.
+- The lists sujets and times are lengthy, containing multiple elements.
+- There are no container comprehensions in the code.
+- The assignment of the times list is a long expression due to the multiple string entries.
+- There are no if conditions in this snippet."
+05_conditional_dimension.ipynb,10,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+problem1_v2.ipynb,29,1,0,0,1,1,"- This cell can be considered a long cell. It covers multiple aspects such as data loading, model instantiation, training, and evaluation all in one cell. 
+-The provided code doesn't contain element chain.
+- The code doesn't contain any complex list, dictionary, or other container comprehensions.
+- trainloader = torch.utils.data.DataLoader(mnist_train, batch_size=64, shuffle=True, num_workers=2) is a lengthy function.
+- The code checks for cuda_available multiple times throughout the code. 
+"
+foursquare-location-history.ipynb,2,0,0,0,0,0,"- This cell is simple.
+- The code doesn't contain any complex nested data structures. 
+- The code doesn't have any container comprehensions.
+- There aren't any long expressions.
+- The code doesn't contain any if conditions."
+project_tripadvisor_score_chigin_sergey.ipynb,90,0,0,0,0,0,- It's a simple line of code 
+csp.ipynb,4,0,0,0,0,0,- It's a simple line of code
+20200911_hahow_pandas.ipynb,61,0,0,0,0,0,- It's a simple line of code
+final_project-checkpoint.ipynb,5,1,1,0,1,0,"- The cell contains multiple operations in one cell can be considered a ""long cell"".
+- discrete is a long list with multiple elements.
+-  The code doesn't contain any comprehensions.
+- The list discrete is quite long. 
+- There are no if conditions in the code."
+walking_gait.ipynb,6,1,0,0,0,0,"- The code is long. 
+- The code doesn't have a element chain.
+- The code doesn't contain any container comprehensions.
+- Each line of the code is relatively straightforward without overly lengthy or complex expressions.
+- There aren't any if conditions in the provided code."
+make_it_beautiful_myltykritik.ipynb,8,0,0,0,0,0,- It’s a simple line of code 
+random.ipynb,1,0,0,0,0,0,"Long Cell: The cell isn't excessively long.
+Long Element Chain: There's no presence of element chain.
+Complex Container Comprehension: The code doesn't contain any complex container comprehensions.
+Long Expression:  There aren't any long expressions.
+Complex If Condition: The code doesn't have any if conditions."
+raster-analysis-advanced-concepts.ipynb,13,0,0,0,0,0,- It's a simple line of code
+england-checkpoint.ipynb,1,1,0,0,1,0,"- The code block is relatively lengthy and contains multiple similar and repetitive computations.
+- This code doesn't contain chains of elements.
+- There aren't any complex container comprehensions in this code.
+- The fsolve function constitutes a long expression. 
+- The code doesn't contain any if conditions."
+MARCOnI.ipynb,3,1,0,0,0,0,"- The code cell contains multiple distinct operations, including setting up a plot, adding annotations, and displaying the image.
+- There isn't a particularly nested or complex array.
+- There's no use of list, dictionary, or set comprehensions in the cell.
+- The expersions aren't lengthy or complex..
+- The code uses a simple conditional check (alpha=1 if visible == 1 else 0.4)."
+GA_FinalProject_TimeSeries_ActiveUsers-checkpoint.ipynb,63,0,0,0,1,0,"- The cell isn't excessively long.
+- There's no presence of element chain.
+- The code doesn't contain any complex container comprehensions.
+- The train2, test2 is a long expression.
+Complex If Condition: The code doesn't have any if conditions."
+05.02-Introducing-Scikit-Learn.ipynb,23,0,0,0,0,0,- It's a simple line of code
+topic2_part1_seaborn_matplotlib_plotly.ipynb,5,0,0,0,0,0,- It's a simple line of code
+08_shallow_water_equation.ipynb,6,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+Mask-RCNN - Building footprint instance segmentation.ipynb,4,0,0,0,0,0,"- The cell does have numerous import statements, isn't particularly complex.
+- The code primarily consists of import statements, none of which appear to have a particularly long chain of elements.
+- The code does not contain any container comprehensions.
+- There aren't long or complicated expression.
+-  The code does not contain any if statements."
+Emmanuil-PCA.ipynb,41,0,0,0,0,0,The cell contains comments.
+Tournament_Model_LR-Delta-Copy1.ipynb,15,1,0,0,1,0,"- The cell contains a significant amount of data manipulation and transformation steps. This is quite a long cell in terms of the number of operations it performs.
+- The cell doesn't contain a nested or complex array.
+- No container comprehensions are present in the cell.
+- There are multiple DataFrame operations that are extensive due to the number of arguments and chained methods.
+- The code doesn't contain nested or particularly complex if statements. "
+Random Forest.ipynb,37,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+regression.ipynb,5,1,1,0,1,1,"- The cell contains multiple operations, manipulations, and loops, making it quite lengthy and complex to understand.
+-The list ids_zero_1_count_in_last_three_week is a clear example of a long element chain, as it has multiple discrete values.
+- No container comprehensions are present.
+- Expressions like (pd.to_datetime(rel_day).date() - datetime.date(2016,10,11)).days % 7 == day_offset and rel_day != day are lengthy and can be hard to parse and understand without context.
+- There's a nested if condition (if shop_info.loc[id,day] == 0 and if (pd.to_datetime(rel_day).date() - datetime.date(2016,10,11)).days % 7 == day_offset and rel_day != day)"
+slicing and recursion-checkpoint.ipynb,30,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- Utilization of 'if' is simple."
+classifying_images_with_a_nn_and_dnn_model.ipynb,9,0,0,0,1,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- model is long.
+- There are no 'if' conditions in the provided code."
+delineation.ipynb,11,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+Performance and probaility statistics-checkpoint.ipynb,4,1,0,0,1,1,"- The cell contains a function definition, a lambda function, two dataframe operations, and some nested conditionals within the function. 
+- The code doesn't contains element chain.
+- The code doesn't contains any comprehensions.
+- The expression performance.loc[:,""Group""] = performance.apply(lambda row: group(row.key1, row.key2), axis=1) is indeed lengthy and could be considered a long expression.
+- The code contains nested if-else conditions."
+03-The watershed transform.ipynb,9,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+2019-12-19_sort_BadTrial___aSPEM___param_difference_Bad_Good_Trial.ipynb,4,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+exploration.ipynb,20,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+bigquery.ipynb,16,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+Question 2.ipynb,33,0,0,0,0,0,The cell contains comments.
+Question 2.ipynb,18,1,0,0,1,0,"- The cell is long in terms of the number of operations it conducts. 
+- The cell doesn't contains element chain.
+- There's no use of comprehensions in the provided code.
+- The request construction, especially the lines starting with request = URL, is long expression. 
+- The code does contain nested deeply or combined with multiple conditions. "
+transfer_learning.ipynb,10,0,0,0,1,0,"The function call to image_dataset_from_directory is long, with four parameters. "
+two-qubit_state_quantum_random_access_coding.ipynb,11,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+project_detection_of_default_credits_asmolovskij.ipynb,20,0,0,0,0,0,- It's a simple line of code
+part-4.ipynb,5,0,0,0,0,0,- It's a simple line of code
+formulation.ipynb,14,1,0,1,1,0,"- The code spans several lines with multiple operations.
+- [[2,-5,0],[-9,3,1],[5,7,-6],[-1,3,0],[9,4,7]] is clear.
+- [la.norm(D[:,k]) for k in np.arange(np.size(D,1)) is a complex comprehension
+- objective is long expression
+- The code doesn't contains a complex or nested if."
+CLOPE_hedgehogues_urvanov.ipynb,15,0,0,0,0,0,- It's a simple line of code
+franec_stampe_plots.ipynb,10,1,0,0,0,0,"- The code is relatively lengthy and contains a lot of repetitive operations. 
+- There aren't element chain.
+- There aren't any container comprehension.
+- The expressions are clear.
+- Complex If Condition: Not present in this code."
+save_and_restore_models.ipynb,35,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+example_container.ipynb,5,0,0,0,0,0,- It's a simple line of code
+DL2_to_DL3.ipynb,2,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+final_project-checkpoint.ipynb,21,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+analyze_visualize_rent_data.ipynb,7,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+clay_finalproject.ipynb,3,1,0,0,0,1,"- The code is moderately lengthy due to multiple preprocessing steps.
+- There aren't element chain in the cell.
+- No complex container comprehensions.
+- There aren't long expressions.
+- The if-elif structure in the ageConvert function is a bit complex due to the sequence of conditions."
+shateesh-EDA-cleanData.ipynb,10,0,0,0,0,0,- It's a simple line of code
+b_tfstart_graph.ipynb,7,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+20200911_hahow_pandas.ipynb,96,0,0,0,0,0,- It's a simple line of code
+3 - Image Segmentation.ipynb,13,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+plot_lc_from_DL4.ipynb,5,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+03.07-Merge-and-Join.ipynb,51,0,0,0,0,0,- It's a simple line of code
+Convex Optimization and Quadratic Smoothing Example-checkpoint.ipynb,2,1,0,0,0,0,"- Long Cell: it’s long. 
+- Long Element Chain: There aren't nested or chained lists, dictionaries, sets, etc. 
+- Complex Container Comprehension: There aren't any list, dictionary, or other container comprehensions in the code.
+- Long Expression: Expressions here are fairly straightforward and not exceedingly long.
+- Complex If Condition: There aren't any if conditions in the provided code."
+P6_SupervizedMethods.ipynb,47,0,0,0,0,0,- It's a simple line of code
+P5_2_RFM.ipynb,20,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- Utilization of 'if' conditions is simple and clear."
+Tournament_Model_LR-Delta.ipynb,12,0,0,0,1,0,- top_tournament_conferences_list is a long expression
+ArcFlags - JupyterCon.ipynb,1,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+topic9_part1_time_series_python.ipynb,28,1,0,0,1,0,"- The code is very lengthy.
+- In the cell, there isn't any data structure.
+- There are no container comprehensions in the provided code.
+- The expression season_averages is lengthy.
+- The utilisation of 'if' is simple and clear."
+03.10-Working-With-Strings.ipynb,61,0,0,0,0,0,- It's a simple line of code
+11_deep_learning.ipynb,12,0,0,0,1,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- hidden1 is long.
+- There are no 'if' conditions in the provided code."
+07_Keras_Flowers_TPU_playground.ipynb,20,0,0,0,0,0,- It's a simple line of code
+04.11-Settings-and-Stylesheets.ipynb,24,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the provided code."
+6_translate.ipynb,14,1,1,0,1,0,"- The cell can be considered a long cell due to the multiple operations, model instantiation, and the loop inside it.
+- The data_set variable contains nested lists, which is a chain of container elements.
+- There's no use any comprehensions in this cell.
+-seq2seq_model.Seq2SeqModel(...) is quite lengthy and can be considered a long expression due to the numerous parameters being passed to the function.
+- There isn't a complex if condition in the cell."
+GLM-logistic.ipynb,4,0,1,0,1,0,"- Long Element Chain: Due to the names list
+- Long Expression: Due to the URL and the explicit naming of columns"
+2018-11-29_sort_BadTrial___Suppression_mauvais_essais_velocity.ipynb,9,1,0,0,1,0,"- The whole function fct_fig can indeed be considered a long cell given the multiple operations and processes occurring within it.
+- There aren't an element chain.
+- There is no container comprehension present in this code.
+- The instantiation and method calls, such as ANEMO.Fit(exp), can be considered long expressions.
+- The conditions within the loop if k in ['start_anti', 'latency'] can be seen as a simple condition. "
+container_build.ipynb,8,0,0,0,0,0,"- The cell isn't long.
+- The code doesn't contain any complex or nested arrays. 
+- There aren't any container comprehensions in this code.
+- There aren't any long expressions.
+- There are no 'if' conditions in the code."
+Tournament_Model_LR-Delta.ipynb,15,1,0,0,1,0,"- The cell contains multiple lines of code performing various data manipulation tasks on the tourney_data DataFrame.
+- There are no overly long or nested containers present. 
+- There are no list, set, or dictionary comprehensions in the provided code.
+- The expression tourney_data.rename(columns={""lose_seed"":""opp_team_seed"",""lose_market"":""opp_team"",""lose_team_id"":""opp_team_id""}, inplace=True) is a longer line 
+- The code does not use any 'if' statements or conditions."
+gcd and mod inv-checkpoint.ipynb,2,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- Use ‘if’ conditions is simple and clear."
+finding_donors.ipynb,44,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+vectorizers_tutorial_mvsamsonov.ipynb,9,0,0,1,0,0,"- The code is quite short.
+- There's no element chain.
+- The list comprehension is straightforward.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+lec03-checkpoint.ipynb,5,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+minimal.ipynb,1,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+2018-05-17_minimal_working_example_lmfit_resolu.ipynb,7,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+why_notebooks.ipynb,4,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+class26.ipynb,23,0,0,0,1,0,- The expression chains multiple method calls (where and select). It could be considered a long expression.
+20200911_hahow_pandas.ipynb,109,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+exploration.ipynb,35,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+xml_to_python.ipynb,6,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+2018-12-20_plotly___test.ipynb,4,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Regression_analysis.ipynb,21,0,0,0,1,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expression is long and complicated.
+- There aren't any if conditions in the code."
+Auto-ML Unsupervised.ipynb,5,0,0,0,1,0,"- The code is easily comprehensible.
+- The code doesn't have any nested or long containers.
+- There's no list, set, or dictionary comprehension in the provided code.
+- The expressions used in the code, such as the isinstance checks and the formatted logging message, are long.
+- The code contains a simple if-else condition to check the type of result. It's not nested or overly complex."
+sdk_custom_xgboost.ipynb,10,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+assignment01_pandas_uci_adult_solution.ipynb,19,0,0,0,1,0,"The expression involves multiple chained operations on the data DataFrame, including filtering based on multiple conditions and then counting unique values in the 'salary' column."
+Question 1.ipynb,16,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+project_tmdb_ivanlipko.ipynb,15,0,0,0,1,0,"The expression val_en_counts involves multiple chained operations on the movies DataFrame: filtering by the condition movies['original_language'] == 'en', then indexing by ['vote_average'], followed by getting the value_counts() and finally, sorting by index using sort_index(). The chaining of these methods makes the line relatively long."
+sparse_matrix_sgd_movies_inclass_as_is_20180402.ipynb,0,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+slim_walkthrough.ipynb,16,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+ch08.ipynb,49,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+tutorial.ipynb,35,1,0,1,1,0,"- The code has a fair amount of operations, definitions, and functionalities combined in one snippet. 
+- The code doesn't contain element chain.
+- The list comprehension [_get_next(prediction_iterable) for _ in xrange(36)] and the aforementioned list comprehension involving np.concatenate demonstrate some level of complexity.
+- The lines involving gan_estimator.predict and the nested np.concatenate within the list comprehension are examples of long expressions due to the chaining of functions and methods.
+- The code doesn't contain nested or complex if statements."
+PCA with BigData-checkpoint.ipynb,63,0,0,0,1,0,"The expression Test.assert chains multiple operations together in one line, making it a longer, more complex expression. "
+drive_time_analysis_for_opioid_epidemic.ipynb,4,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- There aren't any long expressions.
+- There aren't any if conditions in the code."
+ch12.ipynb,17,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+organize_sbi.ipynb,0,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Question 2.ipynb,14,0,0,0,1,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- semesterType_df is long.
+- There aren't any if conditions in the code."
+Weather cal.ipynb,1,0,0,0,1,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expression pd.read_table is too lengthy
+- There aren't any if conditions in the code."
+03c-feedback-pt-reactor.ipynb,22,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+mdp.ipynb,9,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- The if conditions in the code is simple and clear."
+P5.ipynb,7,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+lpf-test-checkpoint.ipynb,7,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+tutorial_ensemble_methods_qovaxx.ipynb,22,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+03.01-Introducing-Pandas-Objects.ipynb,4,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+organize_sbi.ipynb,14,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+mep_analyses.ipynb,9,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+12_time_blocking.ipynb,18,1,0,0,1,0,"- This cell is relatively lengthy. It initializes several arrays, handles file operations, and has loops. 
+- There is no significantly lengthy or deeply nested container usage in this cell. 
+- The code does not contain any list, dictionary, or other types of comprehensions.
+- There are a couple of expressions that can be considered long due to their chaining of methods and use of multiple parameters, like:
+c = blosc.compress_ptr(..)
+- The code does not have any nested or particularly complex if conditions. "
+LSTD_lambda.ipynb,6,1,0,0,0,1,"- This cell is indeed relatively lengthy. The show_board function does multiple things: modifies the board based on the agent, footprints, and goals, creates a figure, and shows the board. 
+- There is some complexity in the ""if"" conditions, especially with the nested ""if"" within the leave_footprints condition. "
+Useful_Google_Colab_snippets.ipynb,10,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+train_models_with_tensorFlow_decision_forests.ipynb,10,0,0,0,1,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- display is long expression
+- There aren't any if conditions in the code."
+grafieken-checkpoint.ipynb,4,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+intro_bqml_solution.ipynb,1,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+OpleverNotebook.ipynb,3,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Export Training Samples.ipynb,1,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Final_Project-checkpoint.ipynb,10,1,0,0,0,1,"- The function countQuakes is relatively long and has multiple logical blocks within it.
+- There aren't element chain.
+- The function does not use any container comprehensions.
+- While there are calculations and index-based access, no single line or expression stands out as exceptionally long or convoluted.
+- The function contains nested if-conditions, especially within loops, and has conditions with multiple logical parts combined (like dv > 0.0001 and count < len(earthquakes) - 1 and earthquakeLength < 200). This makes the conditions complex and might be difficult to understand at first glance."
+dl_sentiment_analysis_radchenko.ipynb,4,1,0,0,1,0,"- The code has multiple initializations, a function definition, and subsequent function calls.
+- There aren't any element chain.
+- There aren't any complex container comprehensions in the code.
+- data_train, data_test, labels_train, labels_test = is long and complex.
+-  The code has a single if-condition (if HEADER:) that checks if there's a header in the CSV file. This condition is simple and straightforward."
+tree_demo.ipynb,2,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+practical-pandas-tutorial-for-aspiring-data-scientists.ipynb,118,0,1,0,0,0,"- The code is quite short.
+- df contains nested container.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+topic1_practice_pandas_titanic.ipynb,2,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+p6_nlp_tp_LDA.ipynb,10,0,0,0,1,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- tf_vectorize is long.
+- There aren't any if conditions in the code."
+coretensorflow.ipynb,2,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+04-two-temperature-pt-reactor.ipynb,7,1,0,0,0,0,"- The code block is somewhat long. 
+- The code doesn't have container structures.
+- The code doesn't contain any container comprehensions.
+- The code doesn't contain any particularly lengthy expressions.
+- There are no 'if' statements in the cell."
+Question 2.ipynb,1,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+number.ipynb,5,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- The if conditions in the code is simple and clear."
+fighting_california_forest_fires_using_spatial_analysis.ipynb,6,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+rnn_testing.ipynb,25,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+python.BQ_explore_data.ipynb,36,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+01_convection_revisited.ipynb,3,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+talk.ipynb,10,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+some_details_in_matplotlib_pisarev_ivan.ipynb,10,0,0,0,1,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expression dfAthlete is long.
+- There aren't any if conditions in the code."
+Oracle_and_Pandas.ipynb,25,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+3_mnist_from_scratch.ipynb,46,1,0,0,0,0,"- The cell does both data processing (error calculation) and visualization (creating a confusion matrix plot). While the cell isn't excessively lengthy, it combines two distinct tasks, making it longer than necessary.
+- The code does not involve any container structures.
+- The code does not have any container comprehensions.
+- The expressions in the code are relatively straightforward, primarily related to plotting.
+- The 'if' condition is simple."
+project_KingCountry_house_pred_price_belyaev_aleksandr.ipynb,39,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+html_table_to_pandas_data_frame_to_portal_item.ipynb,1,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+create_data.ipynb,8,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+5_word2vec.ipynb,9,1,0,1,1,0,"- The cell contains a substantial function definition along with demonstration code. 
+- The code does not contain any element chain.
+- The code does use list comprehensions (e.g., [reverse_dictionary[li] for li in labels.reshape(8)]), they are complex. 
+- batch, labels = is a long expression
+- There's no if statement in the provided code. "
+class11.ipynb,16,0,0,0,1,0,"- The expression pea_purple_number does contain multiple operations chained together, making it a somewhat complex single-line expression."
+finde.ipynb,9,0,0,0,1,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- SUPPORTED_BANKS is long.
+- There aren't any if conditions in the code."
+topic9_part1_time_series_python.ipynb,53,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+07-Examples.ipynb,15,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+CNTK_tutorial.ipynb,12,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+lesson2_poll_data_inclass_as_is.ipynb,3,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+OCR.ipynb,1,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+tools_pandas.ipynb,35,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+04.11-Settings-and-Stylesheets.ipynb,13,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Demo dashboard-checkpoint.ipynb,1,0,0,0,1,0,"-The format method used to create the connection string for the create_engine function can be considered a long expression, especially since it's interpolating multiple variables into the string."
+repeatable_splitting.ipynb,11,1,0,0,0,0,"- The cell is indeed lengthy. It includes several Common Table Expressions (CTEs) and a main query, making it relatively complex for a single code cell.
+- There aren't any long element chain.
+- This cell doesn't involve any container comprehensions.
+- There aren't any long expressions.
+- There are no if conditions in the code."
+hopper_miller_zhang_final0814-checkpoint.ipynb,4,1,0,0,0,1,"- The code contains multiple data manipulations and transformations, including several function definitions and many data manipulation steps.
+- There aren't any element chain.
+- While the code does have comprehensions, like if any(word in i for word in top_breed_list):, they aren't particularly complex or hard to read.
+- The expressions are clear and not overly long or complicated.
+-The ageConvert function contains a series of elif statements that could be refactored for clarity, potentially using a dictionary or another data structure."
+62b_lstm.ipynb,3,1,0,0,0,0,"- The code is long, complex.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- The if conditions in the code is simple and clear."
+single_qubit_states_amplitude_and_phase.ipynb,7,1,0,0,1,0,"- The code does quite a bit: it sets up a quantum program, configures API settings, creates quantum and classical registers, generates a range of quantum circuits based on different phase shifts, and finally executes those circuits on a simulator. 
+- There aren't element chain.
+- The code doesn't have any complex comprehensions.
+- The expression result in the code is too lengthy.
+- The code doesn't have any 'if' conditions."
+Taxi.ipynb,19,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+hahow-pandas.ipynb,205,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+ch07.ipynb,14,0,0,1,1,0,"- The code is concise and focused solely on the task of computing ensemble error.
+- The code doesn't have any element chain.
+- The list comprehension used to calculate probs can be considered slightly complex due to the embedded mathematical expression.
+- The mathematical expression within the list comprehension (comb(n_classifier, k) * error**k * (1-error)**(n_classifier - k)) is somewhat lengthy.
+- The code does not contain any 'if' conditions."
+wigner_functions.ipynb,24,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+bench_marking_notebook.ipynb,14,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+week-5-lasso-assignment-2-blank.ipynb,4,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+hopper_miller_zhang_final.ipynb,14,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+tools_numpy.ipynb,262,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+advanced-map-widget-useage.ipynb,14,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+05.14-Image-Features.ipynb,32,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+DataLoader 8:4.ipynb,14,1,0,0,1,0,"- This code is doing multiple tasks in one cell, namely converting sparse matrices to DataFrames for bigram name frequencies, bigram description frequencies, bigram name tf-idf scores, and bigram description tf-idf scores. 
+- The code aren't any element chain.
+- The code doesn't use any comprehensions.
+- The expressions bigrams_desc_frequency, bigrams_name_tfidf_score, bigrams_desc_tfidf_score are long.
+- The code doesn't contain any if conditions."
+project_okcupid_vitaliylo.ipynb,18,1,0,0,1,0,"- Multiple transformations and dataframe operations are performed in this cell.
+- The code doesn't use any element chain.
+- The code doesn't use any comprehensions.
+- data['diet_strenght'] is complex.
+- The code contains a few straightforward if conditions, but they aren't nested or overly complex."
+feature_normalization.ipynb,3,1,0,0,1,0,"- The code contains multiple operations, including defining nested functions. Breaking this down might increase readability.
+- There aren't any long element chain.
+- The code doesn't employ comprehensions.
+- The expression normalized_feature_columns.append is long
+- The code has a straightforward if-else condition."
+03.10-Working-With-Strings.ipynb,48,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+07-Examples.ipynb,23,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+preprocecssing_helpers.ipynb,2,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+RandomF_LangVSNonlang.ipynb,3,1,0,0,0,0,"- There are multiple operations and prints inside a loop. Simplifying or restructuring might help.
+- The code does not have element chain.
+- There aren't any comprehensions.
+- The expressions are simple.
+- There are no complex or nested if conditions."
+tools_matplotlib.ipynb,100,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+cyjs-jupyter-widget.ipynb,14,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+ml_analysis.ipynb,3,1,0,0,1,0,"- The code spans multiple operations, from constructing a pipeline, setting hyperparameters, performing grid search, and evaluating the model. 
+- param_grid_dt is a dictionary that contains lists as values, but it’s clear.
+- The code does not contain any container comprehensions.
+- param_grid_dt is a long expression.
+- The code does not contain any if conditions."
+Multivariate Outliers-checkpoint.ipynb,10,1,0,0,1,1,"- The function contains multiple nested logic, definitions, and operations.
+- There's no element chain.
+- The function doesn't use any advanced list, set, or dictionary 
+- This line data_pct_change[((data_pct_change - data_pct_change.mean()).abs() > (num_std * data_pct_change.std()))] is a somewhat lengthy expression that's combining several operations.
+- There's a nested if condition."
+heart_deseases_Varkentin.ipynb,8,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+4_preproc_tft.ipynb,6,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+final_project.ipynb,8,0,0,0,1,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The function call to Bar() involves multiple arguments, making it longer than a typical concise expression.
+- There aren't any if conditions in the code."
+LocCat.ipynb,5,1,0,0,1,1,"- The cell contains function definitions and assignments. It's somewhat lengthy due to the definitions of two functions and the addition of columns to the datasource.
+- There isn't has evident a complex or nested container.
+- The code doesn't utilize any list, set, or dictionary comprehensions.
+- test is indeed a long expression.
+- The check_categorie function has an elif condition inside the main if-else block."
+0_Introduction.ipynb,40,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+GA_FinalProject_TimeSeries_ActiveUsers.ipynb,18,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+probabilistic_matrix_factorization.ipynb,4,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+ecodices.ipynb,4,0,0,0,0,0,- The cell is empty
+basic_retrieval.ipynb,6,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+hand_dataset.ipynb,5,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+2019-03-01_sort_BadTrial___sklearn__change_descripteur_Comparaison_2.ipynb,10,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+03.03-Operations-in-Pandas.ipynb,13,0,0,0,1,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expression population is long and complicated.
+- There aren't any if conditions in the code."
+neural_network.ipynb,14,0,0,0,1,0,"- The code not extremely lengthy.
+- This code does not contain any significantly long or nested containers. 
+The code does not use any container comprehensions, complex or otherwise.
+- evalds is long expression.
+- There are no if statements present in the code."
+4_keras_functional_api.ipynb,24,0,0,0,0,0,"- The code is quite short.
+- The element chain is clear and simple.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+assignment1_USA_flights_EDA.ipynb,6,0,1,0,1,0,"- The code is short.
+- The dictionary spans multiple lines and might be considered lengthy.
+- The code doesn't contains complex list/dict/set comprehensions.
+- The code does not utilize any comprehensions.
+- The dictionary is a single, multi-line expression.
+- The code does not contain any 'if' conditions."
+mixsig.ipynb,11,1,0,0,1,1,"- The cell contains multiple function definitions which collectively make the cell long.
+- There isn't a deeply nested or long element chain.
+- There aren't any container comprehensions in the code.
+- There are some lengthy expressions in the function definitions, such as the string concatenation in os.path.join(vsig.out_dir, 'valid_hidden_layer_' + i + '_output'). Additionally, the glance_at_tensor function contains multiple print statements that are each quite long.
+- The highlight_column_matches function contains a nested if-else structure.
+"
+milestone_3-checkpoint.ipynb,19,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+visualization_sbi.ipynb,35,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+01_data_collection.ipynb,25,0,0,0,1,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expression merged is long.
+- There aren't any if conditions in the code."
+penguin_simple.ipynb,10,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+PCA with BigData.ipynb,25,1,0,0,1,0,"- The cell contains a series of test assertions, is long.
+-  [[0.68915649,  0.72461254], [-0.72461254, 0.68915649]] is a nested array but it’s clear.
+- The code does not contain any container comprehensions.
+- Some of the assertions, like np.vstack(np.abs(correlatedDataScoresAuto.take(3))).T, can be considered as long expressions. 
+- These aren't if-statements."
+project_cars_MPG_city_predict.ipynb,46,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+FinalProject.ipynb,10,0,0,0,1,0,"- Multiple operations within a single cell but it's simple.
+- There aren't any element chain.
+- No container comprehensions are used.
+- The first line with groupby and transform is relatively long due to the number of columns specified.
+- No if conditions are present."
+ml_tensorflow-checkpoint.ipynb,5,0,0,0,1,0,- california_housing_dataframe is a long and complex expression.
+ASL_2.0_bqml_feateng-REVIEW.ipynb,88,0,0,0,0,0,- The cell is comment
+mlxtend_tetelias.ipynb,10,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+04.10-Customizing-Ticks.ipynb,10,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Graficas  Hartmann.ipynb,15,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+kaggle_leaderboard_probing_nikolai_timonin.ipynb,5,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+ml_outlier_effects.ipynb,5,0,0,0,1,0,- california_housing_dataframe is a long and complex expression.
+20200911_hahow_pandas.ipynb,70,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+2_environments_tutorial.ipynb,11,1,0,0,0,0,"- The cell is a class with multiple methods makes.
+- No element chain is present.
+- No container comprehensions are used.
+- No particularly long expressions are present.
+- The if condition is straightforward."
+2018-05-17_minimal_working_example_lmfit_resolu.ipynb,11,1,0,0,1,1,"-  The function, fct_velocity, is relatively long due to the loops and multiple conditions it contains.
+- The formula (bino*2-1)*maxi*(1-np.exp(-1/tau*(time[t]-latency))) is an expression that computes a value based on several factors. Given its length, it's reasonable to label it as a ""long expression"".
+- The function contains nested if-else conditions which can increase the cognitive load on the reader. It's therefore reasonable to label it as containing a ""complex if condition""."
+ch09.ipynb,19,1,0,0,1,0,"- The code block contains multiple function definitions and import statements.
+- There isn't a element chain.
+- There's a list comprehension but it’s simple and clear.
+- ' '.join(emoticons).replace('-', '') and re.findall('(?::|;|=)(?:-)?(?:\)|\(|D|P)', text.lower()) are relatively long expressions
+- There are no if-else conditions in the provided code."
+3_mnist_from_scratch.ipynb,32,0,0,0,1,0,"- The code is practically short.
+- There aren't any element chain.
+- There's no list, dictionary, or other container comprehensions.
+- s.run([optimizer, loss, learning_rate, train_prediction], feed_dict=feed_dict) is a fairly long expression.
+- There are no if-else conditions in the code."
+14_Answers.ipynb,5,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+"Decorators, Closures and Wrappers-checkpoint.ipynb",4,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+penguin_tfdv.ipynb,32,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+01-Histogram based image segmentation.ipynb,8,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Predict_bike_sharing_Kozlov_Maxim.ipynb,22,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+20190721_practical_pandas_tutorial_for_aspiring_data_scientists.ipynb,183,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+02.01-Understanding-Data-Types.ipynb,33,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+assignment08_implement_sgd.ipynb,8,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Happiness_and_Turnover.ipynb,18,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+hahow-pandas.ipynb,130,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+05-bwr-two-temperature-pt-reactor.ipynb,20,0,0,0,0,0,"- The function is compact and has a clear singular purpose.
+- No element chain.
+- There are no list, dictionary, or other container comprehensions.
+- There are no extremely long and complicated singular expressions.
+- There are no if-else conditions present."
+05.11-K-Means.ipynb,15,1,0,1,0,0,"- Both the function definition and its application, followed by plotting, are in the same cell.
+- There's no element chain.
+- There's a list comprehension used to compute the new centers.
+- All expressions are relatively straightforward.
+- The only conditional check is straightforward – checking if the old and new centers are the same."
+dlnd_tv_script_generation.ipynb,27,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+OpleverNotebook-checkpoint.ipynb,26,0,0,0,1,0,"- The code is short.
+- The nested array [['2013 AANT','2014 AANT','2015 AANT','2016 AANT','2017 AANT']] is clear.
+- There's no comprehension used in the code.
+- The line df_landelijk = df.groupby(['KWALIFICATIE NAAM','MBO SECTOR']).sum()[['2013 AANT','2014 AANT','2015 AANT','2016 AANT','2017 AANT']] is a long expression.
+- There's no conditional statement used in the code."
+Tournament_Model_RF_Delta.ipynb,1,1,0,0,1,0,"- The code spans multiple lines with several steps involved, from initialization, baseline model computation, to iterative feature elimination.
+- There isn't any element chain.
+- The code doesn't seem to use any container comprehensions.
+- model_stats is long.
+- The code doesn't contain any if conditions."
+ViewingAnglesViSiProg.ipynb,8,0,0,0,0,0,- The cell is empty
+Data Wrangling with Pandas.ipynb,14,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Coefficients.ipynb,0,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+rnn_testing.ipynb,26,0,0,0,1,0,"- While the code does span multiple lines, each step is straightforward and not excessively long.
+- filenamesis simple.
+- The code does not utilize any form of container comprehension.
+- The expressions filenames is long.
+- The code does not contain any if conditions."
+rdemo.tutorial.eeg.eyestate.ipynb,72,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+imbalanced_data.ipynb,3,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+variational_classifier.ipynb,60,1,0,1,1,0,"- The function extract contains various operations, from reading the file, data processing, to splitting the data and calculating an information bit. The inclusion of so many diverse steps makes the cell quite lengthy.
+- While the code uses lists, sets, and dictionaries, none of these have complex nested or chained structures.
+- The code uses multiple list comprehensions, especially during the data splitting phase, e.g., x_train = np.asarray([value for (idx, value) in enumerate(x) if idx in train_idx]).T. This can be considered a form of complex container comprehension.
+- Some expressions are compound, such as the one computing B, It's long and complex.
+- The code does not use any if statements."
+pyramid.ipynb,2,0,0,0,0,0,"- The cell is reasonably compact and focused on a single task: creating and displaying a Laplacian Pyramid.
+- While the code uses arrays (like composite_image), it doesn't have complex nested or chained structures.
+- There's no container comprehension used in this code.
+- The expressions used for assignments and image manipulations are concise and not overly complex.
+- The code does not use any if statements."
+Prediction (day of week average in 21 days without preprocessing).ipynb,26,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+LocCat-Rein curdoc gekloot-checkpoint.ipynb,5,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+04.02-Simple-Scatter-Plots.ipynb,4,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Voltage_Distributions.ipynb,21,1,0,0,0,1,"- The cell contains multiple logical sections: setting up the plot, processing data, plotting the data, and adjusting the plot settings. This might make it harder to understand or debug.
+- The code doesn't contain complex nested structures.
+- There's no container comprehension used in this code.
+- The expressions are clear and not overly long or complicated.
+- While the if conditions are not nested, there are multiple checks in succession. "
+ch02.ipynb,9,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+save_and_restore_models.ipynb,33,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+20190721_practical_pandas_tutorial_for_aspiring_data_scientists.ipynb,101,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Tournament_Model_AdaBoost-Delta.ipynb,12,0,0,0,1,0,- top_tournament_conferences_list is a long expression.
+03.01-Introducing-Pandas-Objects.ipynb,15,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+ASL_2.0_bqml_feateng-REVIEW.ipynb,34,0,0,0,0,0,- The cell contains a comments
+ch11.ipynb,35,0,0,0,0,0,"- The code is quite short.
+- The element chain is clear and simple.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+02-Combined operations.ipynb,12,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+3a_bqml_baseline_babyweight.ipynb,21,0,0,0,0,0,- The cell is empty
+part-4.ipynb,7,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+08_Loops.ipynb,29,0,1,0,1,0,"- The cell is not complex. It's a list.
+- The code contains a long list with many string elements.
+- There's no container comprehension used in this code.
+- The code essentially has a single expression, and the list is long.
+- There are no if conditions in the provided code."
+List-Misture_G.ipynb,1,1,1,0,1,0,"- The code includes data loading, definition of a class with multiple methods, and several operations inside each method. It's extensive and covers multiple functionalities.
+- The list ['mass','mass_error_min','mass_error_max','semi_major_axis','semi_major_axis_error_min','semi_major_axis_error_max','star_name'] is a long list of strings that are used to filter the columns of the dataframe. This list, even if not nested, is long.
+- There's no container comprehension present in the code.
+- The expression Sr2 = (self.data[""semi_major_axis_error_min""].multiply(self.data[""semi_major_axis_error_min""])) can be considered long due to the repetition in accessing the same column and performing a multiplication.
+- There are no if conditions in the code."
+significance_calculation.ipynb,7,0,0,0,1,0,The expression contains a long file path. The hardcoding lengthy file paths or URLs can be considered a long expression. This can make the code harder to read and maintain.
+01-Biological vision.ipynb,46,0,0,0,1,0,The expression contains a long file path. The hardcoding lengthy file paths or URLs can be considered a long expression. This can make the code harder to read and maintain.
+ml_feature_cross-checkpoint.ipynb,3,0,0,0,1,0,The expression contains a long file path. The hardcoding lengthy file paths or URLs can be considered a long expression. This can make the code harder to read and maintain.
+kaggle_leaderboard_probing_nikolai_timonin.ipynb,8,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Fuse_Threshold_Network.ipynb,6,1,0,0,1,0,"- This code is relatively lengthy and seems to be performing various initializations and operations on a FuseThresholdNetwork object. 
+- There aren't deeply nested data structure access patterns. 
+- The code doesn't seem to contain any list, dictionary, or other container comprehensions.
+- Expressions such as: I_threshold[r, c] and V_initial are examples where breaking them down or adding comments might enhance readability.
+- There aren't any if conditions present in the code."
+midterm-exam-part-2.ipynb,13,0,0,0,0,0,- The cell is empty
+Unstructured-ML.ipynb,16,0,0,0,1,0,Long Expression: Due to the URL in results
+AmBe_250keV.ipynb,3,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- There aren't any long expressions.
+- There aren't any if conditions in the code."
+hahow-pandas.ipynb,14,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+05_support_vector_machines.ipynb,14,1,0,0,1,0,"- The code is long.
+- There’s no element chain.
+- The code does not use any list, set, or dictionary comprehensions.
+- svm_clf is long.
+- The code does not contain any if statements, let alone complex or nested ones."
+2019-03-29_Fit_Full___velocity_line.ipynb,14,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Tournament_Model_LR-Delta-Copy1.ipynb,3,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+identifying-suitable-sites-for-als-clinics-using-location-allocation-analysis.ipynb,6,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+lesson5_quality_metrics_classification.ipynb,9,0,0,0,0,1,"- This code mostly consists of imports. It's simple.
+- The code does not contain any nested or long element chains.
+- No container comprehensions are present in the code.
+- The code does not have any lengthy single-line expressions.
+- The if conditions are nested and complicated."
+organize_sbi.ipynb,16,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+artgor_ipywidgets.ipynb,17,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+STA651 - Sunspots Timeseries Model.ipynb,31,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+texture analysis example.ipynb,2,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+kaggle_medium_ridge_baseline.ipynb,5,1,0,0,0,0,"- The code is complex.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+PCA with BigData-checkpoint.ipynb,71,0,0,0,1,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- fig, ax = is long and complicated.
+- There aren't any if conditions in the code."
+SimpleCNN.ipynb,2,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+predicting_pulsar_aleksei_demin.ipynb,32,0,0,0,1,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expression sns.heatmap is long.
+- There aren't any if conditions in the code."
+ecodices.ipynb,1,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+assignment1_USA_flights_EDA_solution.ipynb,17,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Transfer_Learning_Solution.ipynb,3,1,0,0,1,0," The cell is long, it's focused on downloading and extracting a dataset. Urlretrieve is long expression"
+0_export_data_from_bq_to_gcs.ipynb,2,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+P7_Analysis.ipynb,4,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+ml_validation.ipynb,3,0,0,0,1,0,- Long Expression: Due to the URL 
+class13.ipynb,5,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+project_movielens_spirin.ipynb,34,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+word2vec_craigslistjobtitles.ipynb,7,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+spam_comments_model_maker.ipynb,7,0,0,0,1,0,- Long Expression: Due to the URL 
+quotient_tests.ipynb,23,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+hopper_miller_zhang_final0814-checkpoint.ipynb,55,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+integral_method.ipynb,6,0,1,0,1,0,"- names is element chain.
+- df is a long expression."
+2019-02-26_sort_BadTrial___sklearn__change_descripteur.ipynb,7,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Simulating baseball in Python.ipynb,12,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+bench_marking_notebook.ipynb,22,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+hopper_miller_zhang_final0816.ipynb,41,0,0,0,1,0,- model is a long expression
+quotient_tests.ipynb,18,0,0,0,1,0,- it's a long expression also it's complex contain many variables.
+01-Point processing.ipynb,4,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+2019-03-01_sort_BadTrial___sklearn__change_descripteur_Comparaison.ipynb,3,1,0,0,1,0,"- The function is quite lengthy and does a multitude of tasks including evaluating predictions, calculating scores, and plotting a confusion matrix. 
+- There aren't any particularly long chains of elements. 
+- The code doesn't use any list, set, or dictionary comprehensions.
+- Some lines, especially those involving text formatting inside the plotting loop, are quite lengthy.
+- The code has only straightforward if statements, mainly to check optional parameters. They aren't nested or overly complicated."
+Prediction (day of week average in 21 days without preprocessing).ipynb,2,0,0,1,1,0,"-  The function and the loop provided are relatively concise.
+- There isn't an element chain.
+- The dateRange function uses a list comprehension that embeds multiple datetime transformations and operations. This makes it complex.
+- The computation of days and the list comprehension within the dateRange function can be considered lengthy expressions, especially due to the repeated usage of datetime.datetime.strptime.
+- The code doesn't contain any if statements."
+03.07-Merge-and-Join.ipynb,29,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+1_Hello Map.ipynb,6,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+developing the keyboard optimization.ipynb,16,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+ift6135_projet.ipynb,28,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Inspect character position-checkpoint.ipynb,12,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+project Bank Marketing WOE.ipynb,17,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+ch11.ipynb,56,1,0,0,1,0,"- The code cell is excessively long.
+- There aren't any notably long chains of elements or nested containers in this code.
+- The code doesn't utilize any list, set, or dictionary comprehensions.
+- ax1.scatter is long expression.
+- The code doesn't contain any if statements."
+what-if-tool-challenge.ipynb,8,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+advanced-map-widget-useage.ipynb,29,1,1,0,1,0,"The code cell is somewhat lengthy.
+The setup for the ""renderer"" contains nested lists and dictionaries, making this section a bit lengthy and nested.
+The code does not use any list, set, or dictionary comprehensions.
+""renderer"" is a long expression.
+The code does not contain any ""if"" statements."
+webscraping_ecommerce_website_with_scrapy.ipynb,42,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Explore Data & Analysis Before Data Preprocessing.ipynb,4,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+16_Comprehensions.ipynb,6,0,0,0,0,0,"- The code is quite short.
+- The element chain is clear and simple.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- The if conditions in the code is simple."
+will_you_have_a_success_in_speed_dating_tatyana_kudasova.ipynb,18,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+average_output.ipynb,1,0,0,0,0,0,- The cell is empty
+midterm-exam-part-2.ipynb,17,0,0,0,0,0,- The cell is empty
+Feature_engineering_is_all_you_need_ tutorial_Georgy_Surin.ipynb,39,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+20200911_hahow_pandas.ipynb,247,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+penguin_tfdv.ipynb,6,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+egemap_prosody_feature_analysis.ipynb,2,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Demo dashboard-checkpoint.ipynb,4,0,0,0,1,0,"- The cell isn't particularly lengthy, as it has a series of operations but each operation is straightforward and on its own line.
+- The line [['SECTORUNIT SBB', 'Jaar', 'Aantal']] is nested array but it’s simple. 
+- The code doesn't contain any complex list, set, or dictionary comprehensions.
+- In this cell, the line df_totaalSBB_zwolle = df_zwolle.groupby(['SECTORUNIT SBB', 'Jaar'], as_index=False).sum()[['SECTORUNIT SBB', 'Jaar', 'Aantal']] is the longest expression.
+- There are no if conditions present in the code."
+ranking_tutorial.ipynb,1,0,0,0,0,0,- The cell contains comments
+08_Taxifare_Keras_FeatureColumns_playground.ipynb,6,1,0,0,0,0,"- The code cell is lengthy because it incorporates several distinct steps for both environment setup and system configuration.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- Utilization of 'if' condition is simple and clear."
+week11-magic-circle.ipynb,10,1,0,0,1,0,"This code cell is relatively long, containing several sections to draw different elements on a plot.
+Although there are some lists and arrays, they are not excessively long or nested.
+The code does not use complex list, set, or dictionary comprehensions.
+Some commands, particularly the calls to ax.text and plotx, have many arguments which make these lines quite long.
+The code does not contain any if statements."
+01_convection_revisited.ipynb,5,0,0,0,1,0,"- u[1:, 1:] is a long expression"
+webhook.ipynb,1,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Data Split & Cal-checkpoint.ipynb,14,0,0,0,0,0,- The cell is empty
+FeatureExploration.ipynb,2,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+predict_contributionsShap.ipynb,1,0,0,0,1,0,- Long Expression: Due to the URL 
+PCA with BigData-checkpoint.ipynb,65,0,0,0,1,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- fig, ax = is long and complicated.
+- There aren't any if conditions in the code."
+05.09-Principal-Component-Analysis.ipynb,21,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+csp.ipynb,14,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+practical-pandas-tutorial-for-aspiring-data-scientists.ipynb,39,0,0,0,0,0,"- The code is quite short.
+- The element chain is simple.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Doing Science with Python.ipynb,36,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Example.ipynb,3,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+LocCat-SVDB-Mockup.ipynb,4,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+topic4_linear_models_part4_good_bad_logit_movie_reviews_XOR.ipynb,22,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+shortest-path-to-the-nlp-world-a-gentle-guide-of-natural-language-processing-and-deep-learning-for-everyone.ipynb,52,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+Updating Webmap with Broken Links.ipynb,0,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+3_mnist_from_scratch.ipynb,24,1,0,0,1,0,"- The code is long and is defining variables, training, and testing.
+- There is no element chain in the code.
+- There is no list, dictionary, or set comprehension in the code.
+- There are several long expressions in the code, especially when defining the weights. For example: tf.truncated_normal([IMAGE_SIZE // 4 * IMAGE_SIZE // 4 * 64, 512], stddev=0.1, seed=SEED). These expressions could be broken down for clarity.
+- There are no if conditions in the provided code."
+gaussian_process.ipynb,3,1,1,0,1,0,"- The primary contributor to the length of this code is the explicit listing of elements for the x and y arrays. This can make it harder for someone reading the code to quickly understand its purpose.
+- x and y contains a long array.
+- There is no list, dictionary, or set comprehension in the provided code.
+- x and y are a long expressions.
+- There are no if conditions in the provided code."
+PS5.ipynb,3,1,0,0,1,0,"- The code is relatively lengthy. This is primarily because of the calculations and transformations done within the function theoretical_sigma and the plotting code that follows.
+- The code does not have nested or long chained expressions involving lists, arrays, sets, dictionaries, etc.
+* There is no list, dictionary, or set comprehension in the provided code.
+- The line sigma=np.abs(0.03727*(upper-lower)**3/np.sqrt(N)*(4*(gupper-2*gmiddle+glower)/(upper-lower)**2)) is a long expression. 
+- here are no if conditions in the provided code."
+Extract_Describer_Events.ipynb,8,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- The if conditions in the code is clear and simple."
+Summarize.ipynb,2,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+topic3_decision_trees_kNN.ipynb,44,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+repeatable_splitting.ipynb,8,1,0,0,0,0,- The code is long and complex. 
+talk.ipynb,12,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+quantum_teleportation.ipynb,31,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+2018-12-07_extration_goodness-of-fit-statistics.ipynb,5,0,0,0,0,0,- The cell is empty
+03.07-Merge-and-Join.ipynb,80,0,0,0,0,0,"- The code is quite short.
+- There's no element chain.
+- The cell doesn't use any container comprehensions.
+- The expressions are clear and not overly long or complicated.
+- There aren't any if conditions in the code."
+lesson10_part1_boosting.ipynb,13,1,0,0,1,0,"- The code is relatively long. It generates data, defines a function, trains two machine learning models (a decision tree and gradient boosting), and then produces two plots. 
+- The code doesn't utilize deeply nested or chained array, list, set, or dictionary operations.
+- There's no presence of list, dictionary, or set comprehension in the provided code.
+- There are some expressions that are a bit long, e.g., the calculation within the generate function: y = np.exp(-X ** 2) + 1.5 * np.exp(-(X - 2) ** 2) + np.random.normal(0.0, noise, n_samples).
+- The code doesn't have any if conditions."
+c_neuralnetwork.ipynb,19,1,0,0,1,0,"- The code segment is moderately lengthy. It defines a function to train and evaluate a linear regressor, sets up an optimizer, evaluation metric (rmse), training and evaluation specs, and finally calls the training function. 
+- There are no intricate element chains present in the code.
+- The code doesn't contain any complicated container comprehensions.
+- TrainSpec/EvalSpec are long and complex.
+- There are no if conditions in the provided code."
