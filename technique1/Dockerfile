@@ -17,5 +17,6 @@ COPY . .
 EXPOSE 5000
 
 # Lancez l'application
-ENV PYTHONPATH "${PYTHONPATH}:/app"
+ENV PYTHONPATH="/app" \
+    FLASK_APP=app.py
 CMD ["flask", "run", "--host=0.0.0.0"]

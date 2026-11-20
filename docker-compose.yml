@@ -1,0 +1,12 @@
+services:
+  api:
+    build: ./technique1
+    ports:
+      - "5000:5000"
+
+  ui:
+    build: ./technique1/interface/detector
+    ports:
+      - "3000:3000"
+    depends_on:
+      - api

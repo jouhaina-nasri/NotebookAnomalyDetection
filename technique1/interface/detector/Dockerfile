@@ -1,13 +1,12 @@
 # Utilisez une image de base Node
-FROM node:14
+FROM node:20-alpine
 
 # Définissez un répertoire de travail
 WORKDIR /app
 
 # Installez les dépendances
 COPY package*.json ./
-RUN npm cache clean --force
-RUN npm install
+RUN npm ci
 
 
 # Copiez le reste du code
