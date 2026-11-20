@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# LibreOffice lock files
+.~lock.*#
+
+# Node
+node_modules/
+build/
+
+# Outputs / uploads
+uploads/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
