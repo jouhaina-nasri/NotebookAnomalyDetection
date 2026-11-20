@@ -1,0 +1,90 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  python-tests:
+    name: Python ${{ matrix.python-version }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.9", "3.11", "3.12"]
+    steps:
+      # The notebook corpus in data/ (~2 GB) is not needed for unit tests.
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            technique1
+            technique2
+            tests
+            precision_recall
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+          cache-dependency-path: |
+            technique1/requirements.txt
+            technique2/requirements.txt
+      - name: Install dependencies
+        run: pip install -r technique1/requirements.txt -r technique2/requirements.txt pytest ruff
+      - name: Lint
+        run: ruff check .
+      - name: Unit, API and regression tests
+        run: pytest -m "not evaluation" -v
+
+  evaluation:
+    name: Evaluation on 383 labeled cells
+    runs-on: ubuntu-latest
+    steps:
+      # Fetch only the 325 labeled notebooks listed in tests/eval_notebooks.txt.
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /*
+            !/data/
+      - name: Check out the labeled notebooks
+        run: |
+          sed 's|^|/data/|' tests/eval_notebooks.txt | git sparse-checkout add --stdin
+          test "$(ls data/*.ipynb | wc -l)" -eq "$(wc -l < tests/eval_notebooks.txt)"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.9"
+          cache: pip
+          cache-dependency-path: technique1/requirements.txt
+      - name: Install dependencies
+        run: pip install -r technique1/requirements.txt pandas pytest
+      - name: Reproduce the published scores
+        run: pytest -m evaluation -v -rs
+
+  frontend:
+    name: Web interface
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: technique1/interface/detector
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: technique1/interface/detector
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: technique1/interface/detector/package-lock.json
+      - run: npm ci
+      - run: npm test
+      - run: npm run build
