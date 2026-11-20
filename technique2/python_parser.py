@@ -8,6 +8,7 @@ import os
 import sys
 
 import joblib
+import xgboost
 import nbformat
 import pandas as pd
 
@@ -17,7 +18,9 @@ sys.path.append(os.path.dirname(BASE_DIR))  # repository root, so that technique
 from technique1.python_parser import FEATURES, parse_jupyter_notebook, to_features  # noqa: E402
 
 SMELLS = ['LC', 'LEC', 'CCC', 'LE', 'CIC']
-MODEL_PATH = os.path.join(BASE_DIR, 'trained_xgboost_model.pkl')
+# Native XGBoost format, portable across XGBoost versions. It was exported from
+# trained_xgboost_model.pkl (kept for the training notebooks) with identical predictions.
+MODEL_PATH = os.path.join(BASE_DIR, 'trained_xgboost_model.json')
 
 
 def extract_metrics_from_notebook(file_path):
@@ -36,7 +39,11 @@ def extract_metrics_from_notebook(file_path):
 
 
 def load_model(path=MODEL_PATH):
-    return joblib.load(path)
+    if path.endswith('.pkl'):
+        return joblib.load(path)
+    model = xgboost.XGBClassifier()
+    model.load_model(path)
+    return model
 
 
 def predict(notebook_files, model=None):
