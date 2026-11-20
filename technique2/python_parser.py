@@ -1,6 +1,9 @@
 import ast
+import os
 import sys
-sys.path.append("/home/jouhaina/Documents/PFE/detector_tool")
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(os.path.dirname(BASE_DIR))  # repository root, so that technique1 is importable
 
 from technique1.ComprehensionMetricCalculator import  count_loops_and_conditions_in_comprehensions,calculate_comprehension_length
 from technique1.ConditionMetricCalculator import count_if_statements, find_max_if_depths
@@ -17,7 +20,6 @@ import nbformat
 import joblib
 import pandas as pd
 
-import os
 
 def max_or_zero(lst):
     return max(lst) if lst and isinstance(lst, list) else 0
@@ -89,7 +91,7 @@ def extract_metrics_from_notebook(file_path):
 
 def main(notebook_files):
     # Load the trained XGBoost model
-    xgboost_model = joblib.load('trained_xgboost_model.pkl')
+    xgboost_model = joblib.load(os.path.join(BASE_DIR, 'trained_xgboost_model.pkl'))
     
     all_notebook_metrics = []
     all_files = []  # To store filenames
@@ -131,6 +133,11 @@ def main(notebook_files):
 
 
 if __name__ == "__main__":
-    # Replace with your actual notebook paths, or pass them as command line arguments
-    notebook_files = input("Enter the paths of the Jupyter notebooks separated by commas: ").split(",")
+    import argparse
+    parser = argparse.ArgumentParser(description="Detect code smells in Jupyter notebooks (XGBoost model).")
+    parser.add_argument("notebooks", nargs="*", help="paths of .ipynb files")
+    args = parser.parse_args()
+    notebook_files = args.notebooks or [
+        p.strip() for p in input("Enter the paths of the Jupyter notebooks separated by commas: ").split(",")
+    ]
     main(notebook_files)

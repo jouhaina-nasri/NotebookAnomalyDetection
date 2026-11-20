@@ -1,3 +1,4 @@
+import argparse
 import os
 import json
 import csv
@@ -5,7 +6,8 @@ import nbformat
 from python_parser import parse_jupyter_notebook
 
 def read_thresholds():
-    with open('thresholds.json', 'r') as f:
+    thresholds_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'thresholds.json')
+    with open(thresholds_path, 'r') as f:
         return json.load(f)
 
 def write_to_csv(csv_writer, metrics, thresholds, file, cell_number):
@@ -61,13 +63,20 @@ def analyze_notebook(file_path, csv_writer, thresholds):
     except Exception as e:
         print(f"Error processing file {file_path}: {e}")
 
+HEADER = ["File", "Cell", "LC", "LEC", "CCC", "LE", "CIC"]
+
 def main():
-    path = input('Path of folder: ').strip()
+    parser = argparse.ArgumentParser(description="Detect code smells in Jupyter notebooks (rule-based).")
+    parser.add_argument("path", nargs="?", help="folder containing .ipynb files")
+    parser.add_argument("-o", "--output", default="results.csv", help="output CSV file (default: results.csv)")
+    args = parser.parse_args()
+
+    path = args.path or input('Path of folder: ').strip()
     thresholds = read_thresholds()
 
-    header = ["File", "Cell", "LC", "LEC", "CCC", "LE", "CIC"] 
+    header = HEADER
 
-    with open("results.csv", mode='w', newline='', encoding='utf-8') as csv_file:
+    with open(args.output, mode='w', newline='', encoding='utf-8') as csv_file:
         csv_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         
         # Write the header
@@ -78,7 +87,7 @@ def main():
                 file_path = os.path.join(path, file)
                 analyze_notebook(file_path, csv_writer, thresholds)
 
+    print(f"Results saved to {args.output}")
+
 if __name__ == "__main__":
     main()
-
-#/home/jouhaina/Documents/PFE/detector_tool/data

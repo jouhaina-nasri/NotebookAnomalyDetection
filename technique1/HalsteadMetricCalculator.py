@@ -1,5 +1,9 @@
-from .OperandsMetricCalculator import OperandMetricsCalculator
-from .OperatorsMetricCalculator import OperatorMetricsCalculator
+try:  # imported as part of the technique1 package (technique2)
+    from .OperandsMetricCalculator import OperandMetricsCalculator
+    from .OperatorsMetricCalculator import OperatorMetricsCalculator
+except ImportError:  # imported as a top-level module (detector.py, app.py)
+    from OperandsMetricCalculator import OperandMetricsCalculator
+    from OperatorsMetricCalculator import OperatorMetricsCalculator
 import math
 
 class Constants:
