@@ -5,4 +5,8 @@
 ./manual_labeling
 ./metrics
 ./precision_recall
-./test
+./test*.mkv
+__pycache__/
+interface/
+uploads/
+results.csv

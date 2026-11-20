@@ -19,8 +19,8 @@ def calculate_metrics(merged_data, columns):
         fp = ((merged_data[column + '_tool'] == 1) & (merged_data[column + '_manual'] == 0)).sum()
         fn = ((merged_data[column + '_tool'] == 0) & (merged_data[column + '_manual'] == 1)).sum()
 
-        precision = tp / (tp + fp)
-        recall = tp / (tp + fn)
+        precision = tp / (tp + fp) if tp + fp else 0.0
+        recall = tp / (tp + fn) if tp + fn else 0.0
 
         results[column] = {"Precision": precision, "Recall": recall}
     

@@ -94,5 +94,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-#/home/jouhaina/Documents/PFE/detector_tool/data
-#/home/jouhaina/Documents/PFE/detector_tool/metrics
