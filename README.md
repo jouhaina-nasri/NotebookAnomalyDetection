@@ -5,7 +5,7 @@
 **Automatic detection of code smells in Jupyter notebooks used for Machine Learning**
 
 [![CI](https://github.com/jouhaina-nasri/NotebookAnomalyDetection/actions/workflows/ci.yml/badge.svg)](https://github.com/jouhaina-nasri/NotebookAnomalyDetection/actions/workflows/ci.yml)
-[![Python](https://img.shields.io/badge/Python-3.9--3.12-3776AB?logo=python&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3.11--3.12-3776AB?logo=python&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-2.3-000000?logo=flask&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React_18-Vite-61DAFB?logo=react&logoColor=black)](#)
 [![XGBoost](https://img.shields.io/badge/XGBoost-model-EB5E28)](#)
@@ -111,8 +111,8 @@ XGBoost was retained as the final model, stored in XGBoost's portable format ([`
 ## 🚀 Quick start
 
 ### Prerequisites
-- Python 3.9+
-- Node.js 18+ (for the web interface)
+- Python 3.11+
+- Node.js 22+ (for the web interface)
 - Docker (optional)
 
 ### Option A — Web app with Docker
