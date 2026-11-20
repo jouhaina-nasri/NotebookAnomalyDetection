@@ -4,9 +4,10 @@
 
 **Automatic detection of code smells in Jupyter notebooks used for Machine Learning**
 
-[![Python](https://img.shields.io/badge/Python-3.9-3776AB?logo=python&logoColor=white)](#)
+[![CI](https://github.com/jouhaina-nasri/NotebookAnomalyDetection/actions/workflows/ci.yml/badge.svg)](https://github.com/jouhaina-nasri/NotebookAnomalyDetection/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/Python-3.9--3.12-3776AB?logo=python&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-2.3-000000?logo=flask&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](#)
+[![React](https://img.shields.io/badge/React_18-Vite-61DAFB?logo=react&logoColor=black)](#)
 [![XGBoost](https://img.shields.io/badge/XGBoost-model-EB5E28)](#)
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)](#)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
@@ -69,10 +70,10 @@ Thresholds are configurable in [`technique1/thresholds.json`](technique1/thresho
 
 ![Architecture](architecture/architecture.png)
 
-1. **UI (React)** — the user uploads one or more `.ipynb` files.
+1. **UI (React + MUI)** — the user uploads one or more `.ipynb` files.
 2. **AST Analyzer (Python)** — each code cell is parsed into an AST and the metrics above are computed (magic commands and cells with syntax errors are skipped).
 3. **Smell Detector** — rules (Technique 1) or the XGBoost model (Technique 2) are applied to the metrics.
-4. **Report** — a CSV file (`File, Cell, LC, LEC, CCC, LE, CIC`) is returned for download.
+4. **Report** — the cells with smells are listed in the UI, and the full CSV report (`File, Cell, LC, LEC, CCC, LE, CIC`) can be downloaded.
 
 ---
 
@@ -101,7 +102,9 @@ Global accuracy: **0.992** · MCC: **0.959**
 | Random Forest | 0.967 | 0.828 | 0.840 | 0.943 | 0.758 |
 | **XGBoost** | **0.983** | **0.914** | **0.924** | 0.924 | 0.924 |
 
-XGBoost was retained as the final model ([`technique2/trained_xgboost_model.pkl`](technique2/trained_xgboost_model.pkl)).
+XGBoost was retained as the final model, stored in XGBoost's portable format ([`technique2/trained_xgboost_model.json`](technique2/trained_xgboost_model.json)).
+
+> These scores are checked on every push: the CI `evaluation` job re-runs the detector on the 383 labeled cells and fails if precision, recall or MCC change.
 
 ---
 
@@ -122,7 +125,7 @@ docker compose up --build
 
 This starts the Flask API on port 5000 and the React UI on port 3000.
 
-Open http://localhost:3000, select your notebooks and click **Analyser**: the CSV report downloads automatically.
+Open http://localhost:3000, select your notebooks and click **Analyser**: the cells with smells are listed, and the CSV report can be downloaded.
 
 ### Option B — Command line
 
@@ -146,6 +149,14 @@ XGBoost detection:
 ```bash
 pip install -r technique2/requirements.txt
 python technique2/python_parser.py nb1.ipynb nb2.ipynb   # → predictions.csv
+```
+
+### Run the tests
+
+```bash
+pip install -r technique1/requirements.txt -r technique2/requirements.txt pytest
+pytest                       # unit, API, regression and (if data/ is present) evaluation tests
+cd technique1/interface/detector && npm ci && npm test
 ```
 
 ### Example output
@@ -186,6 +197,7 @@ collect_data ──► data ──► manual_labeling ──► extract_notebook
 | [`technique2/`](technique2) | Training dataset, XGBoost model, model comparison |
 | [`precision_recall/`](precision_recall) | Precision / recall / MCC / F1 against manual labels |
 | [`validate/`](validate) | Confusion matrices, ROC curves, cross-validation |
+| [`tests/`](tests) | pytest suite: metrics, rules, API, XGBoost, regression and evaluation |
 
 ---
 
@@ -193,14 +205,15 @@ collect_data ──► data ──► manual_labeling ──► extract_notebook
 
 - Analysis is **static and cell-level**: smells spanning several cells are not detected.
 - Manual labeling was done by a single developer; inter-rater agreement was not measured.
-- Thresholds were calibrated on the same corpus used for evaluation, so results on unseen notebooks may be lower.
+- Thresholds were calibrated, and the XGBoost model trained, on the same 383 labeled cells used for evaluation, so results on unseen notebooks may be lower.
 
 ## 🛣️ Roadmap
 
+- [x] Single `docker compose up` for API + UI
+- [x] Unit tests and GitHub Actions CI
+- [x] List smelly cells directly in the UI
+- [ ] Evaluate on a held-out set labeled by a second annotator
 - [ ] Package as a pip-installable CLI (`nbsmell analyze <path>`)
-- [ ] Single `docker-compose up` for API + UI
-- [ ] Unit tests and GitHub Actions CI
-- [ ] Highlight smelly cells directly in the UI
 - [ ] JupyterLab extension
 
 ---
