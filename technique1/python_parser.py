@@ -3,7 +3,7 @@ import warnings
 
 # Analyzed notebooks often contain old-style escapes ('\d' in non-raw strings);
 # Python >= 3.12 warns about them when parsing, which only adds noise here.
-warnings.filterwarnings('ignore', category=SyntaxWarning)
+warnings.filterwarnings('ignore', message='invalid escape sequence')  # SyntaxWarning or DeprecationWarning (< 3.12)
 
 try:  # imported as part of the technique1 package (technique2, tests)
     from .ComprehensionMetricCalculator import count_conditions_per_comprehension, count_loops_per_comprehension,count_loops_and_conditions_in_comprehensions,calculate_comprehension_length

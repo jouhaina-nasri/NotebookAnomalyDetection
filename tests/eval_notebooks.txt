@@ -1,0 +1,325 @@
+01-Biological vision.ipynb
+01-Histogram based image segmentation.ipynb
+01-Point processing.ipynb
+01_convection_revisited.ipynb
+01_data_collection.ipynb
+02-Combined operations.ipynb
+02.01-Understanding-Data-Types.ipynb
+02_using_metrics_in_eager_mode.ipynb
+03-Digital image.ipynb
+03-The watershed transform.ipynb
+03.01-Introducing-Pandas-Objects.ipynb
+03.03-Operations-in-Pandas.ipynb
+03.07-Merge-and-Join.ipynb
+03.10-Working-With-Strings.ipynb
+03c-feedback-pt-reactor.ipynb
+04-two-temperature-pt-reactor.ipynb
+04.02-Simple-Scatter-Plots.ipynb
+04.10-Customizing-Ticks.ipynb
+04.11-Settings-and-Stylesheets.ipynb
+05-bwr-two-temperature-pt-reactor.ipynb
+05.02-Introducing-Scikit-Learn.ipynb
+05.09-Principal-Component-Analysis.ipynb
+05.11-K-Means.ipynb
+05.14-Image-Features.ipynb
+05_conditional_dimension.ipynb
+05_support_vector_machines.ipynb
+07-Examples.ipynb
+07_Keras_Flowers_TPU_playground.ipynb
+07_python-conditionals.ipynb
+08_Answers.ipynb
+08_Loops.ipynb
+08_Taxifare_Keras_FeatureColumns_playground.ipynb
+08_shallow_water_equation.ipynb
+0_Introduction.ipynb
+0_export_data_from_bq_to_gcs.ipynb
+11_deep_learning.ipynb
+12_time_blocking.ipynb
+14_Answers.ipynb
+16_Comprehensions.ipynb
+1_Hello Map.ipynb
+2018-05-17_minimal_working_example_lmfit_resolu.ipynb
+2018-11-29_sort_BadTrial___Suppression_mauvais_essais_velocity.ipynb
+2018-12-07_extration_goodness-of-fit-statistics.ipynb
+2018-12-20_plotly___test.ipynb
+2019-02-26_sort_BadTrial___sklearn__change_descripteur.ipynb
+2019-02-26_sort_BadTrial___sklearn__change_descripteur_1.ipynb
+2019-03-01_sort_BadTrial___sklearn__change_descripteur_Comparaison.ipynb
+2019-03-01_sort_BadTrial___sklearn__change_descripteur_Comparaison_2.ipynb
+2019-03-19_Fit_Full___old_velocity_filt_30.ipynb
+2019-03-29_Fit_Full___velocity_line.ipynb
+2019-12-19_sort_BadTrial___aSPEM___param_difference_Bad_Good_Trial.ipynb
+20190721_practical_pandas_tutorial_for_aspiring_data_scientists.ipynb
+20200911_hahow_pandas.ipynb
+2_environments_tutorial.ipynb
+3 - Image Segmentation.ipynb
+3_mnist_from_scratch.ipynb
+3a_bqml_baseline_babyweight.ipynb
+4_keras_functional_api.ipynb
+4_preproc_tft.ipynb
+5_word2vec.ipynb
+62b_lstm.ipynb
+6_translate.ipynb
+ASL_2.0_bqml_feateng-REVIEW.ipynb
+Algorithmic Problems in Python3.ipynb
+AmBe_250keV.ipynb
+ArcFlags - JupyterCon.ipynb
+Auto-ML Unsupervised.ipynb
+Batch_Normalization_Lesson.ipynb
+CLOPE_hedgehogues_urvanov.ipynb
+CNTK_tutorial.ipynb
+Coefficients.ipynb
+Convex Optimization and Quadratic Smoothing Example-checkpoint.ipynb
+DL2_to_DL3.ipynb
+Data Split & Cal-checkpoint.ipynb
+Data Wrangling with Pandas.ipynb
+DataLoader 8:4.ipynb
+Decorators, Closures and Wrappers-checkpoint.ipynb
+DeepLearning_Vignette.ipynb
+Demo dashboard-checkpoint.ipynb
+Doing Science with Python.ipynb
+Emmanuil-PCA.ipynb
+Example.ipynb
+Explore Data & Analysis Before Data Preprocessing.ipynb
+Export Training Samples.ipynb
+Extract_Describer_Events.ipynb
+FeatureExploration.ipynb
+Feature_engineering_is_all_you_need_ tutorial_Georgy_Surin.ipynb
+FinalProject.ipynb
+Final_Project-checkpoint.ipynb
+Functions-checkpoint.ipynb
+Fuse_Threshold_Network.ipynb
+GA_FinalProject_TimeSeries_ActiveUsers-checkpoint.ipynb
+GA_FinalProject_TimeSeries_ActiveUsers.ipynb
+GLM-logistic.ipynb
+Graficas  Hartmann.ipynb
+Happiness_and_Turnover.ipynb
+Inspect character position-checkpoint.ipynb
+LSTD_lambda.ipynb
+List-Misture_G.ipynb
+LocCat-Rein curdoc gekloot-checkpoint.ipynb
+LocCat-SVDB-Mockup.ipynb
+LocCat.ipynb
+MARCOnI.ipynb
+MNE_basics.ipynb
+Mask-RCNN - Building footprint instance segmentation.ipynb
+MongoDB, Numpy and Scikit-learn-checkpoint.ipynb
+Multivariate Outliers-checkpoint.ipynb
+OCR.ipynb
+Objective validation.ipynb
+OpleverNotebook-checkpoint.ipynb
+OpleverNotebook.ipynb
+Oracle_and_Pandas.ipynb
+P4.ipynb
+P5.ipynb
+P5_2_RFM.ipynb
+P6_SupervizedMethods.ipynb
+P7_Analysis.ipynb
+PCA with BigData-checkpoint.ipynb
+PCA with BigData.ipynb
+PS5.ipynb
+Performance and probaility statistics-checkpoint.ipynb
+Predict_bike_sharing_Kozlov_Maxim.ipynb
+Prediction (day of week average in 21 days without preprocessing).ipynb
+Prediction( optimal score function  without preprocessing)-checkpoint.ipynb
+Question 1.ipynb
+Question 2.ipynb
+Random Forest.ipynb
+RandomF_LangVSNonlang.ipynb
+Recognising_authors_using_ML_methods_Sergey_Ustyantsev.ipynb
+Regression_analysis.ipynb
+STA651 - Sunspots Timeseries Model.ipynb
+SimpleCNN.ipynb
+Simulating baseball in Python.ipynb
+Solar_flares_forecasting_Knyazeva.ipynb
+Summarize.ipynb
+Taxi.ipynb
+Tournament_Model_AdaBoost-Delta.ipynb
+Tournament_Model_LR-Delta-Copy1.ipynb
+Tournament_Model_LR-Delta.ipynb
+Tournament_Model_RF_Delta.ipynb
+Tournament_Model_RF_Delta_No_Opp_Stats.ipynb
+Transfer_Learning_Solution.ipynb
+Unstructured-ML.ipynb
+Updating Webmap with Broken Links.ipynb
+Useful_Google_Colab_snippets.ipynb
+ViewingAnglesViSiProg.ipynb
+Voltage_Distributions.ipynb
+Weather cal.ipynb
+advanced-map-widget-useage.ipynb
+analyze_visualize_rent_data.ipynb
+artgor_ipywidgets.ipynb
+assignment01_pandas_uci_adult_solution.ipynb
+assignment08_implement_sgd.ipynb
+assignment1_USA_flights_EDA.ipynb
+assignment1_USA_flights_EDA_solution.ipynb
+assignment2_part1_alice_logistic_regression_solution.ipynb
+automl_text_classification.ipynb
+average_output.ipynb
+b_tfstart_graph.ipynb
+basic_retrieval.ipynb
+bench_marking_notebook.ipynb
+bigquery.ipynb
+c_neuralnetwork.ipynb
+ch02.ipynb
+ch04.ipynb
+ch06.ipynb
+ch07.ipynb
+ch08.ipynb
+ch09.ipynb
+ch11.ipynb
+ch12.ipynb
+class11.ipynb
+class13.ipynb
+class26.ipynb
+class27-checkpoint.ipynb
+classifying_images_with_a_nn_and_dnn_model.ipynb
+clay_finalproject.ipynb
+cnn.ipynb
+container_build.ipynb
+coretensorflow.ipynb
+create_data.ipynb
+csp.ipynb
+cyjs-jupyter-widget.ipynb
+data-science-ai-and-our-digital-future-in-the-age-of-surveillance-capitalism.ipynb
+delineation.ipynb
+demo.ipynb
+developing the keyboard optimization.ipynb
+dl_sentiment_analysis_radchenko.ipynb
+dlnd_language_translation.ipynb
+dlnd_tv_script_generation.ipynb
+drive_time_analysis_for_opioid_epidemic.ipynb
+ecodices.ipynb
+egemap_prosody_feature_analysis.ipynb
+england-checkpoint.ipynb
+essence-of-principal-component-analysis.ipynb
+example_container.ipynb
+exploration.ipynb
+feature_normalization.ipynb
+fighting_california_forest_fires_using_spatial_analysis.ipynb
+final_project-checkpoint.ipynb
+final_project.ipynb
+finde.ipynb
+finding_donors.ipynb
+formulation.ipynb
+foursquare-location-history.ipynb
+franec_stampe_plots.ipynb
+gaussian_process.ipynb
+gcd and mod inv-checkpoint.ipynb
+grafieken-checkpoint.ipynb
+graphs-and_plots.ipynb
+hahow-pandas.ipynb
+hand_dataset.ipynb
+heart_deseases_Varkentin.ipynb
+hopper_miller_zhang_final.ipynb
+hopper_miller_zhang_final0814-checkpoint.ipynb
+hopper_miller_zhang_final0816.ipynb
+html_table_to_pandas_data_frame_to_portal_item.ipynb
+identifying-suitable-sites-for-als-clinics-using-location-allocation-analysis.ipynb
+ift6135_projet.ipynb
+imbalanced_data.ipynb
+integral_method.ipynb
+intro_bqml_solution.ipynb
+kaggle_leaderboard_probing_nikolai_timonin.ipynb
+kaggle_medium_ridge_baseline.ipynb
+knowledge.ipynb
+lec03-checkpoint.ipynb
+lesson10_part1_boosting.ipynb
+lesson2_poll_data_inclass_as_is.ipynb
+lesson5_quality_metrics_classification.ipynb
+lpf-test-checkpoint.ipynb
+make_it_beautiful_myltykritik.ipynb
+mdp.ipynb
+mep_analyses.ipynb
+midterm-exam-part-2.ipynb
+milestone_3-checkpoint.ipynb
+minimal.ipynb
+mixsig.ipynb
+ml_analysis.ipynb
+ml_feature_cross-checkpoint.ipynb
+ml_outlier_effects.ipynb
+ml_pd-checkpoint.ipynb
+ml_tensorflow-checkpoint.ipynb
+ml_validation.ipynb
+mlxtend_tetelias.ipynb
+mobilenet_example.ipynb
+musicbrainz_lastfm_leaflet.ipynb
+neural_network.ipynb
+number.ipynb
+organize_sbi.ipynb
+p6_nlp_tp_LDA.ipynb
+part-4.ipynb
+penguin_simple.ipynb
+penguin_tfdv.ipynb
+plot_lc_from_DL4.ipynb
+practical-pandas-tutorial-for-aspiring-data-scientists.ipynb
+predict_contributionsShap.ipynb
+predicting_pulsar_aleksei_demin.ipynb
+preprocecssing_helpers.ipynb
+probabilistic_matrix_factorization.ipynb
+problem1_v2.ipynb
+project Bank Marketing WOE.ipynb
+project_KingCountry_house_pred_price_belyaev_aleksandr.ipynb
+project_avito.ipynb
+project_cars_MPG_city_predict.ipynb
+project_detection_of_default_credits_asmolovskij.ipynb
+project_movielens_spirin.ipynb
+project_okcupid_vitaliylo.ipynb
+project_tmdb_ivanlipko.ipynb
+project_tripadvisor_score_chigin_sergey.ipynb
+pyramid.ipynb
+python.BQ_explore_data.ipynb
+quantile_monotone_constraints.ipynb
+quantum_teleportation.ipynb
+quotient_tests.ipynb
+random.ipynb
+ranking_tutorial.ipynb
+raster-analysis-advanced-concepts.ipynb
+rdemo.tutorial.eeg.eyestate.ipynb
+regression.ipynb
+repeatable_splitting.ipynb
+rnn_testing.ipynb
+rulefit-boston-housing-demo.ipynb
+sa_02_iso_implementation2.ipynb
+save_and_restore_models.ipynb
+sdk_custom_xgboost.ipynb
+shateesh-EDA-cleanData.ipynb
+shortest-path-to-the-nlp-world-a-gentle-guide-of-natural-language-processing-and-deep-learning-for-everyone.ipynb
+significance_calculation.ipynb
+single_qubit_states_amplitude_and_phase.ipynb
+slicing and recursion-checkpoint.ipynb
+slim_walkthrough.ipynb
+some_details_in_matplotlib_pisarev_ivan.ipynb
+spam_comments_model_maker.ipynb
+sparse_matrix_sgd_movies_inclass_as_is_20180402.ipynb
+talk.ipynb
+texture analysis example.ipynb
+tools_matplotlib.ipynb
+tools_numpy.ipynb
+tools_pandas.ipynb
+topic1_practice_pandas_titanic.ipynb
+topic2_part1_seaborn_matplotlib_plotly.ipynb
+topic3_decision_trees_kNN.ipynb
+topic4_linear_models_part4_good_bad_logit_movie_reviews_XOR.ipynb
+topic9_part1_time_series_python.ipynb
+train_caip.ipynb
+train_models_with_tensorFlow_decision_forests.ipynb
+transfer_learning.ipynb
+tree_demo.ipynb
+tutorial.ipynb
+tutorial_ensemble_methods_qovaxx.ipynb
+two-qubit_state_quantum_random_access_coding.ipynb
+variational_classifier.ipynb
+vectorizers_tutorial_mvsamsonov.ipynb
+visualization_sbi.ipynb
+walking_gait.ipynb
+webhook.ipynb
+webscraping_ecommerce_website_with_scrapy.ipynb
+week-5-lasso-assignment-2-blank.ipynb
+week11-magic-circle.ipynb
+what-if-tool-challenge.ipynb
+why_notebooks.ipynb
+wigner_functions.ipynb
+will_you_have_a_success_in_speed_dating_tatyana_kudasova.ipynb
+word2vec_craigslistjobtitles.ipynb
+xml_to_python.ipynb
