@@ -1,19 +1,16 @@
-# Utilisez une image de base Node
-FROM node:20-alpine
+FROM node:22-alpine
 
-# Définissez un répertoire de travail
 WORKDIR /app
 
-# Installez les dépendances
 COPY package*.json ./
 RUN npm ci
 
-
-# Copiez le reste du code
 COPY . .
 
-# Exposez le port sur lequel votre application sera accessible
-EXPOSE 3000
+# URL of the Flask API as seen from the user's browser
+ARG VITE_API_URL=http://127.0.0.1:5000
+ENV VITE_API_URL=$VITE_API_URL
+RUN npm run build
 
-# Lancez l'application
-CMD ["npm", "start"]
+EXPOSE 3000
+CMD ["npm", "run", "preview"]

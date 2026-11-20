@@ -3,54 +3,40 @@ import os
 import json
 import csv
 import nbformat
-from python_parser import parse_jupyter_notebook
+try:  # imported as part of the technique1 package
+    from .python_parser import parse_jupyter_notebook, to_features
+except ImportError:  # run as a script or imported as a top-level module
+    from python_parser import parse_jupyter_notebook, to_features
 
 def read_thresholds():
     thresholds_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'thresholds.json')
     with open(thresholds_path, 'r') as f:
         return json.load(f)
 
-def write_to_csv(csv_writer, metrics, thresholds, file, cell_number):
-    # Initializes the results list with the file name and cell number
-    file_name = os.path.basename(file)
+SMELLS = ["LC", "LEC", "CCC", "LE", "CIC"]
 
-    results = [file_name, str(cell_number)]
-    
-    # Rule for "Long Cell"
-    long_cell_condition = (
-        metrics['source_lines_of_code'] >= thresholds['SLOC'] and
-        (metrics['cyclomatic_complexity'] + metrics['functional_complexity']) >= thresholds['CC_FC']
-    ) or (
-        metrics['source_lines_of_code'] >= thresholds['SLOC'] and
-        metrics['volume'] >= thresholds['VOL']
+
+def detect_smells(f, thresholds):
+    """Apply the detection rules to the features of one cell.
+
+    Returns a dict {smell: 0 or 1} for LC, LEC, CCC, LE and CIC.
+    """
+    long_cell = f['SLOC'] >= thresholds['SLOC'] and (
+        f['CC'] + f['FC'] >= thresholds['CC_FC'] or f['VOL'] >= thresholds['VOL']
     )
-    results.append(1 if long_cell_condition else 0)
-    
-    # Rule for "Long Element Chain"
-    max_nested_arrays = max(metrics.get('nested_array_depth', []) or [0])
-    max_length_element_chain = max(metrics.get('element_chain_length', []) or [0])
-    long_element_chain_condition = max_nested_arrays >= thresholds['DNA'] or max_length_element_chain >= thresholds['LOEC']
-    results.append(1 if long_element_chain_condition else 0)
+    long_element_chain = f['DNA'] >= thresholds['DNA'] or f['LOEC'] >= thresholds['LOEC']
+    complex_comprehension = f['NOL_NOCC'] >= thresholds['NOL_NOCC'] and f['LOC'] >= thresholds['LOC']
+    long_expression = f['NOCE'] >= thresholds['NOCE']
+    complex_if = f['DNIC'] >= thresholds['DNIC'] or f['NOIC'] >= thresholds['NOIC']
 
-    # Rule for "Complex Container Comprehension"
-    max_loop_condition = max(metrics.get('loop_and_condition', []) or [0])
-    max_length_comprehension = max(metrics.get('comprehension_length', []) or [0])
-    complex_list_comprehension_condition = max_loop_condition >= thresholds['NOL_NOCC'] and max_length_comprehension >= thresholds['LOC']
-    results.append(1 if complex_list_comprehension_condition else 0)
-    
-    # Rule for "Long Expression"
-    max_length_expression = max(metrics.get('expression_length', []) or [0])
-    long_ternary_condition = max_length_expression >= thresholds['NOCE']
-    results.append(1 if long_ternary_condition else 0)
-    
-    # Rule for "Complex IF-Conditional"
-    max_nested_conditions = max(metrics.get('nested_condition_depth', []) or [0])
-    number_conditions_if = metrics.get('num_conditions', 0)
-    complex_ternary_condition = max_nested_conditions >= thresholds['DNIC'] or number_conditions_if >= thresholds['NOIC']
-    results.append(1 if complex_ternary_condition else 0)
-    
-    # Writing results to CSV file
-    csv_writer.writerow(results)
+    flags = [long_cell, long_element_chain, complex_comprehension, long_expression, complex_if]
+    return {smell: int(flag) for smell, flag in zip(SMELLS, flags)}
+
+
+def write_to_csv(csv_writer, metrics, thresholds, file, cell_number):
+    smells = detect_smells(to_features(metrics), thresholds)
+    csv_writer.writerow([os.path.basename(file), str(cell_number)] + [smells[s] for s in SMELLS])
+
 
 def analyze_notebook(file_path, csv_writer, thresholds):
     try:
@@ -63,7 +49,7 @@ def analyze_notebook(file_path, csv_writer, thresholds):
     except Exception as e:
         print(f"Error processing file {file_path}: {e}")
 
-HEADER = ["File", "Cell", "LC", "LEC", "CCC", "LE", "CIC"]
+HEADER = ["File", "Cell"] + SMELLS
 
 def main():
     parser = argparse.ArgumentParser(description="Detect code smells in Jupyter notebooks (rule-based).")

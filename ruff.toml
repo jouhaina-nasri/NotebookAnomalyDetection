@@ -1,0 +1,6 @@
+# Lint the tool's Python code (not the analyzed notebooks or research notebooks).
+extend-exclude = ["data", "*.ipynb"]
+
+[lint]
+# Syntax errors and undefined names
+select = ["E9", "F63", "F7", "F82"]
