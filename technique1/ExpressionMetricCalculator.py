@@ -1,6 +1,12 @@
 import ast
 from typing import List
 
+def _is_docstring_like(node: ast.AST) -> bool:
+    """True when the statement's value is a bare string literal (e.g. a docstring)."""
+    value = getattr(node, 'value', None)
+    return isinstance(value, ast.Constant) and isinstance(value.value, str)
+
+
 def extract_assignment_lengths(ast_node: ast.AST) -> List[int]:
     """
     Extracts the lengths of assignment expressions from an AST node, excluding docstrings.
@@ -12,7 +18,7 @@ def extract_assignment_lengths(ast_node: ast.AST) -> List[int]:
         List[int]: List of lengths of assignment expressions.
     """
     return [len(ast.unparse(node)) for node in ast.walk(ast_node)
-            if isinstance(node, (ast.Assign, ast.Expr)) and not (isinstance(node.value, ast.Str) if hasattr(node, 'value') else False)]
+            if isinstance(node, (ast.Assign, ast.Expr)) and not _is_docstring_like(node)]
 
 def is_method_or_function_call(node):
     return isinstance(node, ast.Call)
